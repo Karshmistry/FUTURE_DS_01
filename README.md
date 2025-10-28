@@ -1,8 +1,5 @@
-# FUTURE_DS_01
+# FUTURE_DS_01 - E-Commerce Sales Performance Dashboard
 E-Commerce Sales Performance Dashboard | Power BI project analyzing sales, profit, and revenue trends — built as part of Data Analytics Internship at Future Interns.
-
-
-#  FUTURE_DS_01 – E-Commerce Sales Performance Dashboard
 
 ## Overview
 This repository contains **Task 1** of my **Data Science & Analytics Internship** at **Future Interns**.  
@@ -15,9 +12,9 @@ The objective of this project was to analyze e-commerce sales data to identify r
 - Calculate KPIs using DAX for better business decisions  
 
 ## Tools & Technologies
-- **Power BI** – Data cleaning, modeling, and dashboard building  
-- **Excel / CSV** – Dataset preparation  
-- **DAX (Data Analysis Expressions)** – for creating key measures  
+- Power BI – Data cleaning, modeling, and dashboard building  
+- Excel / CSV – Dataset preparation  
+- DAX (Data Analysis Expressions) – for creating key measures  
 
 ## Key Insights
 - Total Sales: 16M  
