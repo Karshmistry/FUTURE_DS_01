@@ -1,0 +1,1001 @@
+Order ID,Order Date,Customer Name,Region,City,State,Product,Category,Quantity,Sales,Profit,Discount,Ship Mode,Segment
+20103,2023-12-30,Neha,West,Ahmedabad,West Bengal,Table,Furniture,5,30170,5543.73,0.03,First Class,Consumer
+20662,2023-08-25,Priya,North,Bangalore,Delhi,Charger,Electronics,2,11222,3901.48,0.19,Second Class,Corporate
+20561,2021-04-19,Neha,East,Bangalore,Gujarat,T-shirt,Fashion,4,12188,1948.97,0.14,First Class,Corporate
+20244,2022-04-11,Tanya,West,Hyderabad,Maharashtra,Headphones,Electronics,5,20950,5323.23,0.14,Second Class,Consumer
+20777,2023-10-01,Karan,East,Hyderabad,Delhi,Smartphone,Electronics,4,26140,4758.68,0.04,Standard Class,Home Office
+20932,2024-05-04,Meera,East,Mumbai,Maharashtra,Shoes,Fashion,2,2642,544.31,0.16,Second Class,Consumer
+20556,2020-06-10,Deepak,East,Chennai,Maharashtra,Shoes,Fashion,4,5264,1781.08,0.25,Standard Class,Corporate
+20217,2022-02-02,Arjun,West,Delhi,Karnataka,Sofa,Furniture,1,5576,1620.72,0.02,First Class,Consumer
+20648,2024-02-04,Neha,East,Mumbai,Delhi,Bottle,Accessories,1,691,185.67,0.23,Standard Class,Corporate
+20028,2020-05-14,Tanya,East,Bangalore,Telangana,Table,Furniture,4,13616,940.42,0.09,Same Day,Consumer
+20987,2024-04-19,Amit,East,Hyderabad,Gujarat,Headphones,Electronics,5,42050,11100.08,0.23,Second Class,Home Office
+20795,2021-01-27,Deepak,West,Bangalore,Telangana,T-shirt,Fashion,4,7136,788.64,0.27,Standard Class,Consumer
+20485,2023-12-01,Vikas,South,Bangalore,Maharashtra,Sofa,Furniture,3,14808,1756.81,0.02,First Class,Home Office
+20682,2021-07-10,Tanya,East,Bangalore,Delhi,Backpack,Accessories,4,15708,2748.16,0.26,Same Day,Corporate
+20231,2020-07-08,Amit,East,Hyderabad,West Bengal,Laptop,Electronics,1,1606,286.08,0.25,Standard Class,Home Office
+20649,2020-11-13,Karan,West,Delhi,Telangana,Laptop,Electronics,3,2889,961.67,0.1,Same Day,Consumer
+20497,2021-03-17,Sneha,North,Mumbai,Maharashtra,Charger,Electronics,2,15708,2203.26,0.09,Standard Class,Home Office
+20220,2024-05-08,Vikas,West,Hyderabad,Gujarat,Watch,Fashion,1,6828,832.12,0.04,Same Day,Corporate
+20836,2024-01-02,Neha,North,Bangalore,West Bengal,Television,Electronics,5,16155,5573.91,0.12,First Class,Consumer
+20326,2021-04-08,Rahul,West,Ahmedabad,Gujarat,Chair,Furniture,4,29592,3434.81,0.21,First Class,Home Office
+20820,2021-05-03,Amit,East,Hyderabad,Maharashtra,Table,Furniture,2,10072,2545.27,0.22,Second Class,Home Office
+20611,2020-09-19,Arjun,West,Hyderabad,Karnataka,Blender,Appliances,2,18230,3947.89,0.16,Second Class,Consumer
+20453,2022-11-26,Neha,West,Delhi,Karnataka,Camera,Electronics,1,3470,902.57,0.25,Same Day,Corporate
+20587,2024-07-06,Meera,North,Mumbai,Telangana,Shoes,Fashion,4,34980,1845.51,0.03,First Class,Consumer
+20338,2024-09-25,Riya,East,Delhi,Delhi,Headphones,Electronics,5,43260,2397.58,0.15,Same Day,Home Office
+20688,2021-04-04,Neha,South,Delhi,Karnataka,Bottle,Accessories,5,45270,14378.38,0.19,Second Class,Consumer
+20879,2022-08-17,Amit,West,Delhi,Karnataka,Watch,Fashion,4,33184,6628.77,0.17,Same Day,Consumer
+20220,2020-06-06,Karan,East,Bangalore,Delhi,Backpack,Accessories,3,4080,1340.26,0.13,Standard Class,Home Office
+20116,2020-07-09,Karan,East,Ahmedabad,Telangana,Laptop,Electronics,3,25857,4183.82,0.12,Second Class,Corporate
+20792,2021-09-17,Riya,South,Ahmedabad,Gujarat,Smartphone,Electronics,3,5127,752.47,0.25,Standard Class,Home Office
+20477,2024-09-01,Vikas,West,Delhi,Telangana,Headphones,Electronics,2,18032,1342.99,0.0,Same Day,Consumer
+20400,2021-10-15,Arjun,East,Hyderabad,Tamil Nadu,Bottle,Accessories,4,24876,5559.39,0.01,Standard Class,Corporate
+20150,2020-11-09,Deepak,North,Ahmedabad,Tamil Nadu,Television,Electronics,4,20308,6027.01,0.11,Same Day,Consumer
+20572,2022-09-30,Arjun,East,Ahmedabad,Karnataka,Watch,Fashion,4,20676,1354.37,0.16,First Class,Home Office
+20656,2020-09-25,Priya,South,Chennai,Maharashtra,T-shirt,Fashion,3,15156,2571.16,0.13,Second Class,Home Office
+20117,2022-03-01,Tanya,South,Ahmedabad,Delhi,Charger,Electronics,5,9820,1001.53,0.05,Second Class,Corporate
+20488,2023-06-14,Karan,East,Bangalore,Maharashtra,Laptop,Electronics,5,21850,5399.86,0.13,Standard Class,Home Office
+20656,2023-12-29,Karan,West,Ahmedabad,Maharashtra,Fridge,Appliances,4,21952,1717.68,0.09,Second Class,Consumer
+20474,2021-03-07,Karan,North,Bangalore,Maharashtra,Book,Books,4,30884,5563.92,0.12,Second Class,Corporate
+20180,2023-05-31,Deepak,South,Delhi,Karnataka,Bottle,Accessories,2,19014,4708.02,0.05,Same Day,Home Office
+20896,2020-06-08,Neha,East,Chennai,Karnataka,Chair,Furniture,4,28532,6334.39,0.04,Standard Class,Home Office
+20835,2024-05-19,Amit,South,Chennai,West Bengal,Table,Furniture,2,2732,297.07,0.02,First Class,Corporate
+20754,2020-02-04,Vikas,East,Delhi,Gujarat,Television,Electronics,2,18534,3069.58,0.2,Second Class,Corporate
+20196,2022-04-05,Karan,West,Mumbai,Tamil Nadu,Fan,Appliances,5,3560,219.85,0.13,Standard Class,Consumer
+20457,2022-07-08,Rahul,South,Ahmedabad,Tamil Nadu,Television,Electronics,3,13137,1160.09,0.08,Same Day,Home Office
+20780,2023-10-24,Vikas,South,Chennai,West Bengal,Sofa,Furniture,1,3214,260.13,0.27,Second Class,Consumer
+20019,2020-06-25,Sneha,East,Ahmedabad,Karnataka,Charger,Electronics,5,38500,11709.5,0.11,Same Day,Corporate
+20851,2024-03-09,Karan,East,Ahmedabad,Delhi,Watch,Fashion,3,14373,2135.82,0.2,Same Day,Consumer
+20039,2020-04-18,Karan,East,Kolkata,Maharashtra,T-shirt,Fashion,2,13682,2939.7,0.13,First Class,Consumer
+20751,2021-08-10,Tanya,West,Mumbai,Delhi,T-shirt,Fashion,2,5678,1760.52,0.25,Second Class,Consumer
+20946,2022-03-05,Deepak,North,Hyderabad,Karnataka,Smartphone,Electronics,5,32360,2441.6,0.3,Same Day,Consumer
+20657,2021-05-25,Vikas,East,Kolkata,Maharashtra,Sofa,Furniture,4,13764,3612.42,0.14,Same Day,Corporate
+20858,2024-04-03,Vikas,East,Delhi,Gujarat,Headphones,Electronics,5,25240,4330.19,0.17,Same Day,Consumer
+20001,2021-01-21,Arjun,West,Chennai,Tamil Nadu,Television,Electronics,1,1123,234.16,0.13,Second Class,Consumer
+20815,2023-03-18,Riya,East,Delhi,Delhi,Jeans,Fashion,4,22592,2844.27,0.21,Standard Class,Corporate
+20526,2023-03-12,Amit,West,Ahmedabad,Karnataka,Headphones,Electronics,1,7414,995.62,0.29,Same Day,Corporate
+20373,2022-10-28,Deepak,North,Bangalore,West Bengal,Shoes,Fashion,2,8038,1253.97,0.18,Same Day,Consumer
+20502,2022-08-16,Amit,South,Kolkata,Tamil Nadu,Camera,Electronics,1,6432,1891.9,0.21,Standard Class,Consumer
+20390,2024-06-05,Rahul,East,Ahmedabad,Delhi,Watch,Fashion,1,309,101.91,0.26,Standard Class,Consumer
+20374,2022-12-24,Priya,North,Delhi,Maharashtra,Oven,Appliances,1,7749,1272.91,0.29,First Class,Consumer
+20105,2023-01-27,Amit,East,Chennai,Tamil Nadu,Blender,Appliances,4,9200,1934.8,0.22,First Class,Consumer
+20677,2021-12-14,Deepak,West,Hyderabad,Delhi,Bottle,Accessories,1,7545,841.37,0.08,Standard Class,Consumer
+20881,2021-05-02,Priya,West,Delhi,Telangana,Table,Furniture,2,1098,226.29,0.23,First Class,Corporate
+20236,2021-01-23,Neha,West,Bangalore,Maharashtra,Television,Electronics,5,36480,8821.17,0.24,First Class,Corporate
+20806,2023-08-22,Priya,East,Mumbai,West Bengal,Fan,Appliances,3,4893,1048.25,0.14,First Class,Corporate
+20081,2020-05-12,Sneha,South,Chennai,Maharashtra,T-shirt,Fashion,1,5749,1613.6,0.02,Standard Class,Corporate
+20205,2020-05-05,Neha,East,Hyderabad,Karnataka,Jeans,Fashion,3,6618,1397.58,0.14,Same Day,Home Office
+20360,2022-06-18,Meera,East,Chennai,Tamil Nadu,Headphones,Electronics,3,2898,725.27,0.05,Second Class,Home Office
+20466,2021-08-26,Deepak,South,Chennai,West Bengal,Backpack,Accessories,1,6676,1046.78,0.27,Standard Class,Corporate
+20073,2022-03-04,Tanya,West,Delhi,Delhi,Oven,Appliances,1,6793,659.55,0.11,Standard Class,Corporate
+20867,2023-06-30,Sneha,East,Ahmedabad,West Bengal,Oven,Appliances,2,16900,3538.52,0.22,Second Class,Corporate
+20007,2022-10-23,Vikas,East,Pune,Delhi,Fridge,Appliances,3,18510,1094.71,0.26,Second Class,Home Office
+20631,2021-04-29,Arjun,North,Chennai,Karnataka,T-shirt,Fashion,1,1596,181.04,0.1,Same Day,Consumer
+20025,2024-05-22,Deepak,West,Ahmedabad,Delhi,Headphones,Electronics,1,9661,734.97,0.16,Second Class,Home Office
+20748,2021-08-17,Deepak,North,Hyderabad,Tamil Nadu,Camera,Electronics,5,15195,3704.16,0.17,Same Day,Home Office
+20377,2023-08-05,Karan,North,Pune,West Bengal,Backpack,Accessories,4,29144,2225.62,0.24,Same Day,Home Office
+20243,2021-06-26,Meera,West,Pune,Telangana,Watch,Fashion,4,37644,3147.48,0.12,Same Day,Home Office
+20118,2022-05-30,Meera,North,Bangalore,Tamil Nadu,Backpack,Accessories,3,17580,4668.14,0.16,Second Class,Home Office
+20326,2023-12-04,Riya,South,Hyderabad,Telangana,Shoes,Fashion,3,27645,5592.12,0.07,First Class,Consumer
+20805,2020-05-18,Sneha,South,Bangalore,Maharashtra,Sofa,Furniture,3,12132,1950.45,0.14,Standard Class,Home Office
+20013,2023-04-06,Priya,West,Hyderabad,Gujarat,Chair,Furniture,1,1642,417.81,0.23,First Class,Home Office
+20419,2024-06-17,Amit,South,Bangalore,West Bengal,Watch,Fashion,4,2140,369.27,0.28,First Class,Consumer
+20547,2021-05-27,Meera,North,Chennai,West Bengal,Table,Furniture,3,28092,7729.53,0.24,First Class,Consumer
+20379,2020-03-18,Deepak,West,Kolkata,Tamil Nadu,Shoes,Fashion,1,1365,228.96,0.24,First Class,Corporate
+20422,2022-11-12,Amit,East,Hyderabad,Telangana,Television,Electronics,1,4333,923.21,0.27,First Class,Home Office
+20579,2021-01-25,Rahul,East,Kolkata,Karnataka,Table,Furniture,2,11734,1173.63,0.26,Standard Class,Corporate
+20157,2021-07-03,Tanya,North,Kolkata,Maharashtra,Laptop,Electronics,5,6250,580.86,0.06,Second Class,Corporate
+20865,2023-02-15,Riya,North,Pune,Karnataka,Sofa,Furniture,4,26636,6157.91,0.15,Same Day,Consumer
+20844,2024-09-04,Priya,South,Ahmedabad,Telangana,Bottle,Accessories,3,3279,411.64,0.1,First Class,Corporate
+20134,2021-12-12,Vikas,North,Delhi,Gujarat,Oven,Appliances,2,17708,1700.06,0.18,Second Class,Corporate
+20616,2022-04-07,Neha,South,Delhi,Karnataka,Charger,Electronics,4,19004,6188.18,0.24,Standard Class,Home Office
+20799,2023-11-02,Tanya,North,Mumbai,Telangana,Bottle,Accessories,5,18340,6009.48,0.14,Second Class,Consumer
+20420,2023-04-20,Vikas,South,Bangalore,Delhi,Laptop,Electronics,3,15993,3716.27,0.11,Standard Class,Consumer
+20117,2024-08-16,Tanya,East,Mumbai,West Bengal,Headphones,Electronics,4,3344,1033.48,0.28,First Class,Corporate
+20529,2021-10-01,Neha,West,Delhi,Delhi,Charger,Electronics,3,4515,464.67,0.15,Second Class,Consumer
+20285,2020-03-03,Neha,South,Bangalore,Gujarat,Fan,Appliances,5,6330,2169.05,0.14,Same Day,Corporate
+20701,2023-10-15,Amit,South,Ahmedabad,Telangana,Book,Books,1,2059,144.38,0.22,First Class,Home Office
+20285,2023-08-21,Meera,West,Delhi,Maharashtra,Bottle,Accessories,2,2136,603.76,0.14,Second Class,Corporate
+20222,2024-08-28,Rahul,South,Kolkata,Telangana,Shoes,Fashion,1,3635,1121.53,0.28,Same Day,Corporate
+20162,2023-11-04,Amit,East,Chennai,Telangana,Fan,Appliances,5,5660,1219.82,0.08,First Class,Home Office
+20761,2023-06-16,Karan,West,Ahmedabad,Telangana,Headphones,Electronics,3,24228,5257.88,0.22,First Class,Corporate
+20491,2021-03-27,Sneha,East,Delhi,Gujarat,Watch,Fashion,5,26525,3658.97,0.27,First Class,Corporate
+20085,2020-05-26,Rahul,South,Pune,Maharashtra,Shoes,Fashion,5,22385,7113.99,0.25,Same Day,Home Office
+20707,2021-04-15,Vikas,West,Kolkata,Karnataka,Charger,Electronics,4,4416,763.19,0.17,Second Class,Consumer
+20506,2022-05-03,Arjun,South,Kolkata,Delhi,Television,Electronics,2,5958,2059.15,0.14,Same Day,Consumer
+20526,2021-06-04,Meera,West,Mumbai,Maharashtra,Smartphone,Electronics,5,8020,1021.48,0.04,First Class,Corporate
+20029,2023-02-06,Priya,South,Mumbai,Delhi,Watch,Fashion,3,21843,7083.46,0.04,Same Day,Consumer
+20677,2023-03-22,Riya,East,Ahmedabad,Maharashtra,Charger,Electronics,5,41705,3837.09,0.08,First Class,Corporate
+20268,2024-11-07,Tanya,West,Hyderabad,West Bengal,Book,Books,2,6538,1120.05,0.23,Second Class,Corporate
+20705,2022-03-29,Karan,East,Pune,West Bengal,Shoes,Fashion,3,13272,2213.62,0.09,Same Day,Consumer
+20310,2020-04-07,Vikas,East,Bangalore,West Bengal,Oven,Appliances,5,38895,4452.78,0.01,Same Day,Home Office
+20849,2022-08-15,Neha,West,Delhi,Delhi,Sofa,Furniture,3,2343,555.29,0.14,Standard Class,Consumer
+20217,2020-03-01,Neha,South,Hyderabad,Maharashtra,Table,Furniture,2,16540,4891.39,0.24,Same Day,Home Office
+20524,2020-10-01,Karan,North,Pune,Karnataka,Charger,Electronics,3,13170,4459.75,0.24,Standard Class,Home Office
+20318,2024-06-03,Meera,South,Delhi,Karnataka,Bottle,Accessories,5,10250,2739.12,0.19,Same Day,Consumer
+20655,2024-05-13,Deepak,South,Chennai,Telangana,Camera,Electronics,5,42690,2700.13,0.18,Standard Class,Home Office
+20250,2021-01-25,Karan,South,Bangalore,Gujarat,Book,Books,1,8307,2835.32,0.28,Second Class,Home Office
+20995,2021-02-05,Neha,South,Kolkata,Tamil Nadu,T-shirt,Fashion,1,7993,1829.45,0.07,Same Day,Consumer
+20171,2022-07-24,Deepak,South,Bangalore,Telangana,Charger,Electronics,1,5768,1433.33,0.22,Standard Class,Consumer
+20450,2020-11-06,Rahul,East,Pune,Telangana,T-shirt,Fashion,2,9292,2902.92,0.16,Same Day,Home Office
+20029,2022-08-15,Amit,North,Pune,Gujarat,Charger,Electronics,1,571,178.21,0.3,Second Class,Corporate
+20340,2021-01-23,Amit,North,Delhi,Delhi,Television,Electronics,3,4395,611.35,0.26,Second Class,Corporate
+20949,2021-08-07,Amit,West,Pune,Telangana,Shoes,Fashion,4,8512,2433.61,0.03,Second Class,Home Office
+20344,2020-01-11,Priya,East,Chennai,Telangana,Book,Books,4,23960,4084.56,0.25,Second Class,Consumer
+20330,2023-02-04,Priya,East,Delhi,Delhi,Camera,Electronics,1,6702,1996.27,0.24,Second Class,Home Office
+20099,2022-11-09,Deepak,West,Kolkata,Telangana,Television,Electronics,5,39785,8138.99,0.15,Standard Class,Home Office
+20781,2023-02-17,Tanya,East,Bangalore,Tamil Nadu,Camera,Electronics,4,8932,2751.4,0.14,Same Day,Home Office
+20649,2023-05-03,Tanya,West,Kolkata,Tamil Nadu,Smartphone,Electronics,4,39640,3016.45,0.12,First Class,Corporate
+20176,2024-06-13,Priya,West,Hyderabad,Tamil Nadu,Backpack,Accessories,5,16600,5284.51,0.3,Second Class,Consumer
+20115,2021-11-28,Rahul,West,Ahmedabad,Karnataka,Table,Furniture,2,12966,2848.88,0.08,Second Class,Home Office
+20353,2021-07-24,Neha,East,Hyderabad,Karnataka,Blender,Appliances,1,7224,2175.18,0.21,Second Class,Home Office
+20007,2020-05-12,Neha,North,Hyderabad,Gujarat,Sofa,Furniture,2,6216,365.34,0.25,Second Class,Home Office
+20927,2020-03-22,Sneha,North,Delhi,Gujarat,Smartphone,Electronics,5,2970,320.58,0.03,First Class,Consumer
+20866,2021-11-30,Meera,West,Mumbai,Gujarat,Sofa,Furniture,3,3921,321.89,0.23,Second Class,Consumer
+20412,2021-07-25,Karan,West,Hyderabad,Delhi,Shoes,Fashion,4,8748,2460.43,0.28,Same Day,Consumer
+20906,2022-06-04,Amit,East,Bangalore,Tamil Nadu,Fan,Appliances,2,15474,5292.83,0.29,Same Day,Home Office
+20460,2022-10-27,Neha,North,Pune,Gujarat,Laptop,Electronics,3,29835,5685.41,0.28,First Class,Consumer
+20887,2022-03-07,Neha,West,Ahmedabad,Karnataka,Chair,Furniture,2,6910,1702.3,0.08,Standard Class,Corporate
+20989,2020-01-21,Karan,North,Kolkata,Delhi,Chair,Furniture,3,17778,3072.04,0.27,First Class,Corporate
+20793,2022-03-02,Arjun,North,Chennai,Gujarat,Fan,Appliances,4,10220,2176.55,0.05,Standard Class,Consumer
+20027,2024-09-05,Priya,West,Hyderabad,Gujarat,Chair,Furniture,3,3777,522.17,0.27,Second Class,Home Office
+20153,2022-01-03,Vikas,South,Hyderabad,Tamil Nadu,Television,Electronics,4,8700,1558.1,0.06,Standard Class,Home Office
+20117,2021-01-20,Meera,South,Pune,Gujarat,Table,Furniture,3,12264,1163.54,0.14,Second Class,Corporate
+20166,2024-04-16,Neha,West,Delhi,Delhi,Sofa,Furniture,1,2343,665.31,0.01,Second Class,Home Office
+20588,2022-06-07,Riya,North,Delhi,Delhi,Chair,Furniture,1,9205,2602.63,0.28,Standard Class,Corporate
+20973,2021-08-11,Sneha,South,Pune,Karnataka,Book,Books,2,14628,1612.85,0.21,First Class,Corporate
+20305,2020-11-12,Rahul,West,Ahmedabad,Maharashtra,Backpack,Accessories,1,7217,1695.86,0.18,Standard Class,Corporate
+20860,2023-09-03,Sneha,South,Hyderabad,Maharashtra,Oven,Appliances,3,8190,606.34,0.27,Same Day,Corporate
+20895,2021-05-29,Tanya,South,Kolkata,Gujarat,T-shirt,Fashion,3,22437,2785.13,0.05,Standard Class,Home Office
+20750,2023-10-11,Meera,East,Kolkata,Karnataka,Bottle,Accessories,4,15860,892.26,0.2,Standard Class,Consumer
+20714,2022-01-24,Rahul,North,Ahmedabad,Karnataka,Oven,Appliances,1,9394,1773.46,0.26,First Class,Corporate
+20805,2021-05-30,Arjun,West,Mumbai,Tamil Nadu,Charger,Electronics,4,5020,311.4,0.26,Same Day,Consumer
+20866,2024-03-15,Sneha,South,Ahmedabad,Tamil Nadu,Smartphone,Electronics,2,3388,457.91,0.11,First Class,Consumer
+20911,2024-10-26,Rahul,South,Pune,Tamil Nadu,Table,Furniture,4,28780,6635.42,0.19,Second Class,Corporate
+20837,2022-10-01,Tanya,North,Bangalore,Maharashtra,Oven,Appliances,1,3455,787.34,0.05,First Class,Consumer
+20163,2023-06-06,Karan,South,Ahmedabad,Maharashtra,Laptop,Electronics,4,29448,5481.36,0.07,First Class,Corporate
+20605,2024-12-06,Arjun,West,Hyderabad,Karnataka,Camera,Electronics,1,6576,819.46,0.19,Standard Class,Consumer
+20284,2023-02-18,Neha,South,Bangalore,West Bengal,Watch,Fashion,5,19340,5059.65,0.13,First Class,Home Office
+20957,2020-11-29,Priya,North,Chennai,West Bengal,Camera,Electronics,5,47675,3123.14,0.19,First Class,Corporate
+20837,2023-03-30,Amit,South,Mumbai,Delhi,Bottle,Accessories,4,19540,3306.44,0.14,First Class,Home Office
+20306,2024-12-25,Tanya,North,Bangalore,Maharashtra,Book,Books,3,10647,1626.82,0.16,First Class,Corporate
+20746,2022-06-10,Vikas,North,Pune,Telangana,Table,Furniture,2,19712,1540.89,0.2,Same Day,Corporate
+20175,2024-12-30,Amit,West,Kolkata,Delhi,Jeans,Fashion,2,13114,1616.22,0.25,First Class,Consumer
+20814,2022-03-11,Amit,South,Ahmedabad,Telangana,Bottle,Accessories,5,49095,12046.43,0.03,Same Day,Corporate
+20575,2024-05-27,Amit,West,Mumbai,Tamil Nadu,Camera,Electronics,1,7224,2056.79,0.17,Standard Class,Home Office
+20102,2021-05-08,Sneha,East,Delhi,Telangana,Backpack,Accessories,3,11559,3221.33,0.24,First Class,Consumer
+20822,2021-03-30,Tanya,North,Delhi,Delhi,Oven,Appliances,1,5106,1118.38,0.11,Standard Class,Consumer
+20291,2020-04-11,Deepak,South,Ahmedabad,Maharashtra,Jeans,Fashion,3,22251,5247.83,0.14,First Class,Consumer
+20454,2021-09-20,Deepak,West,Pune,Telangana,Charger,Electronics,5,23495,5264.09,0.16,First Class,Home Office
+20814,2021-05-12,Arjun,West,Pune,Delhi,Jeans,Fashion,5,42560,4627.69,0.0,First Class,Consumer
+20804,2021-12-15,Rahul,West,Hyderabad,West Bengal,Oven,Appliances,4,1760,273.66,0.03,Standard Class,Consumer
+20669,2022-01-20,Arjun,North,Hyderabad,West Bengal,Headphones,Electronics,2,11678,3098.07,0.12,Standard Class,Corporate
+20263,2023-10-06,Arjun,West,Bangalore,Karnataka,T-shirt,Fashion,5,19770,2739.8,0.24,Standard Class,Corporate
+20452,2024-12-03,Riya,South,Hyderabad,Tamil Nadu,Laptop,Electronics,4,23180,4820.28,0.03,Standard Class,Home Office
+20726,2023-05-28,Tanya,South,Kolkata,Tamil Nadu,Camera,Electronics,2,12104,3654.9,0.27,Same Day,Consumer
+20580,2020-02-19,Meera,North,Pune,Maharashtra,Bottle,Accessories,4,30108,7569.98,0.24,First Class,Corporate
+20581,2021-11-17,Amit,East,Kolkata,Karnataka,Headphones,Electronics,4,6196,1188.81,0.16,Second Class,Consumer
+20455,2023-03-29,Neha,East,Chennai,Maharashtra,T-shirt,Fashion,1,1400,319.68,0.15,Second Class,Home Office
+20835,2024-04-26,Riya,South,Mumbai,Gujarat,Book,Books,1,6902,2397.59,0.04,First Class,Corporate
+20621,2022-10-02,Sneha,North,Pune,Karnataka,Table,Furniture,5,40715,4379.31,0.1,First Class,Corporate
+20781,2021-07-14,Arjun,East,Hyderabad,Karnataka,Smartphone,Electronics,4,11100,1333.26,0.16,Second Class,Corporate
+20381,2020-02-27,Rahul,South,Bangalore,Telangana,Backpack,Accessories,2,11182,2779.31,0.17,Second Class,Home Office
+20812,2024-01-05,Sneha,North,Pune,Karnataka,Watch,Fashion,5,18370,2025.85,0.16,Second Class,Corporate
+20657,2023-11-24,Arjun,North,Bangalore,Karnataka,Table,Furniture,4,7916,1304.22,0.04,First Class,Corporate
+20321,2024-07-14,Karan,North,Hyderabad,Karnataka,Chair,Furniture,2,10390,917.58,0.25,Second Class,Corporate
+20481,2024-08-13,Priya,East,Kolkata,Karnataka,Sofa,Furniture,2,5416,413.2,0.28,Standard Class,Consumer
+20702,2023-12-01,Deepak,West,Chennai,Karnataka,Shoes,Fashion,2,9412,927.36,0.24,First Class,Corporate
+20490,2020-01-12,Amit,South,Kolkata,Gujarat,T-shirt,Fashion,2,11696,1920.33,0.26,Second Class,Corporate
+20948,2024-03-29,Tanya,West,Mumbai,Maharashtra,Oven,Appliances,5,40710,4154.75,0.21,Second Class,Corporate
+20537,2022-03-03,Riya,North,Bangalore,West Bengal,Laptop,Electronics,4,34344,6735.5,0.18,Second Class,Corporate
+20483,2022-06-20,Tanya,West,Chennai,Karnataka,Sofa,Furniture,5,14145,996.54,0.01,Standard Class,Home Office
+20012,2024-12-28,Arjun,East,Hyderabad,Maharashtra,Sofa,Furniture,4,24308,3240.88,0.26,Same Day,Consumer
+20060,2021-10-24,Rahul,West,Pune,Delhi,Bottle,Accessories,5,33940,2289.22,0.3,Standard Class,Home Office
+20983,2020-03-23,Tanya,West,Bangalore,Gujarat,Headphones,Electronics,5,28740,8185.41,0.08,First Class,Consumer
+20552,2022-02-23,Karan,South,Pune,Tamil Nadu,Book,Books,4,37244,3803.57,0.2,Second Class,Home Office
+20628,2024-09-22,Rahul,East,Mumbai,Telangana,Book,Books,3,5547,571.71,0.12,Standard Class,Corporate
+20731,2021-02-08,Riya,North,Chennai,Maharashtra,Backpack,Accessories,5,35465,9018.48,0.06,Standard Class,Consumer
+20242,2021-05-07,Karan,East,Chennai,Karnataka,Fan,Appliances,5,22840,1434.12,0.11,Standard Class,Home Office
+20768,2020-07-01,Karan,West,Chennai,Telangana,Shoes,Fashion,2,10038,2722.38,0.14,Standard Class,Consumer
+20554,2020-01-21,Deepak,South,Bangalore,Tamil Nadu,Sofa,Furniture,1,4500,362.9,0.2,Standard Class,Consumer
+20097,2022-10-30,Priya,West,Delhi,Gujarat,Table,Furniture,5,38755,9346.17,0.2,First Class,Corporate
+20913,2022-08-13,Vikas,East,Kolkata,Delhi,Sofa,Furniture,3,22149,4511.01,0.2,Standard Class,Consumer
+20621,2023-12-29,Meera,West,Kolkata,Karnataka,Headphones,Electronics,1,1968,398.67,0.12,First Class,Corporate
+20399,2023-05-19,Vikas,West,Ahmedabad,Maharashtra,Bottle,Accessories,4,36216,3702.46,0.03,Second Class,Corporate
+20550,2024-07-04,Arjun,West,Hyderabad,Delhi,Television,Electronics,1,2676,440.42,0.06,Standard Class,Corporate
+20169,2020-08-04,Deepak,North,Chennai,Gujarat,Fan,Appliances,2,4992,437.15,0.14,Second Class,Corporate
+20912,2023-08-04,Arjun,North,Ahmedabad,West Bengal,Smartphone,Electronics,3,2463,373.1,0.28,First Class,Consumer
+20846,2020-05-03,Deepak,North,Ahmedabad,Tamil Nadu,Fan,Appliances,4,11044,3627.9,0.2,First Class,Corporate
+20995,2020-05-01,Vikas,North,Hyderabad,Telangana,Book,Books,1,5175,1685.38,0.08,Standard Class,Corporate
+20360,2020-08-25,Vikas,North,Mumbai,Maharashtra,Charger,Electronics,3,27267,7524.5,0.08,Same Day,Consumer
+20541,2020-07-31,Sneha,North,Ahmedabad,West Bengal,Fan,Appliances,3,13449,2053.87,0.12,Standard Class,Consumer
+20703,2024-07-11,Rahul,West,Ahmedabad,Delhi,Book,Books,4,39184,10906.34,0.05,Second Class,Corporate
+20876,2023-07-08,Rahul,North,Ahmedabad,Telangana,Laptop,Electronics,4,22572,7086.37,0.2,Standard Class,Corporate
+20231,2024-10-20,Neha,South,Mumbai,Telangana,Smartphone,Electronics,1,2459,701.15,0.17,Second Class,Corporate
+20012,2020-07-27,Tanya,South,Ahmedabad,West Bengal,Smartphone,Electronics,5,39220,9942.81,0.23,First Class,Home Office
+20101,2021-11-28,Sneha,North,Hyderabad,Tamil Nadu,Oven,Appliances,5,27755,7400.07,0.27,First Class,Corporate
+20822,2022-05-20,Karan,South,Kolkata,Tamil Nadu,T-shirt,Fashion,4,5520,917.99,0.12,First Class,Consumer
+20336,2021-11-28,Vikas,East,Bangalore,Karnataka,Chair,Furniture,4,17036,3936.1,0.2,Second Class,Home Office
+20915,2023-09-04,Rahul,West,Chennai,Karnataka,Sofa,Furniture,4,3364,1159.2,0.06,Same Day,Home Office
+20350,2020-07-01,Amit,East,Delhi,Karnataka,Laptop,Electronics,2,2260,262.57,0.18,First Class,Home Office
+20118,2020-06-09,Amit,South,Bangalore,West Bengal,Backpack,Accessories,4,3836,1095.93,0.04,Second Class,Home Office
+20871,2020-05-16,Deepak,East,Delhi,Telangana,Blender,Appliances,5,29620,6506.48,0.29,First Class,Consumer
+20254,2024-07-11,Riya,South,Kolkata,Tamil Nadu,Television,Electronics,3,6600,1879.51,0.02,First Class,Corporate
+20349,2020-02-18,Karan,West,Delhi,Karnataka,T-shirt,Fashion,5,18155,1179.21,0.27,First Class,Consumer
+20838,2022-03-19,Riya,West,Chennai,Telangana,Fridge,Appliances,4,31324,2838.15,0.23,Same Day,Consumer
+20408,2022-05-25,Deepak,East,Mumbai,Delhi,Book,Books,3,6822,2195.84,0.07,Same Day,Corporate
+20205,2021-08-04,Arjun,North,Chennai,Karnataka,Camera,Electronics,5,28235,1696.47,0.02,Second Class,Home Office
+20690,2024-03-22,Riya,North,Mumbai,Maharashtra,Oven,Appliances,2,1942,483.82,0.29,First Class,Home Office
+20492,2022-06-14,Tanya,West,Delhi,West Bengal,Watch,Fashion,2,12928,1641.33,0.2,Second Class,Consumer
+20371,2022-05-02,Arjun,South,Pune,Delhi,Camera,Electronics,1,7645,2033.59,0.13,Standard Class,Home Office
+20593,2024-08-14,Priya,South,Mumbai,Delhi,Jeans,Fashion,1,6866,1801.3,0.16,Second Class,Corporate
+20842,2022-05-02,Karan,East,Hyderabad,Karnataka,Smartphone,Electronics,1,3437,272.45,0.26,First Class,Consumer
+20344,2023-08-10,Arjun,North,Bangalore,Maharashtra,T-shirt,Fashion,3,6081,1752.53,0.15,Same Day,Home Office
+20383,2022-12-27,Sneha,West,Mumbai,Karnataka,Oven,Appliances,5,10245,1008.99,0.08,Standard Class,Consumer
+20026,2022-05-30,Priya,North,Kolkata,Maharashtra,Headphones,Electronics,4,30256,5059.36,0.24,First Class,Home Office
+20427,2021-12-09,Rahul,North,Ahmedabad,Gujarat,Jeans,Fashion,4,1228,167.18,0.24,Same Day,Consumer
+20905,2021-07-12,Meera,North,Kolkata,West Bengal,Fan,Appliances,2,14542,3763.03,0.24,First Class,Home Office
+20626,2020-02-09,Riya,North,Bangalore,Telangana,Laptop,Electronics,4,14000,840.21,0.11,Same Day,Home Office
+20966,2020-12-31,Riya,South,Chennai,Maharashtra,Bottle,Accessories,1,7483,2593.05,0.15,Standard Class,Consumer
+20260,2022-07-12,Riya,South,Hyderabad,Tamil Nadu,Watch,Fashion,1,6574,1368.84,0.22,Second Class,Corporate
+20227,2021-12-01,Arjun,East,Bangalore,Karnataka,Camera,Electronics,4,3780,994.42,0.09,First Class,Corporate
+20457,2021-12-25,Meera,South,Delhi,Tamil Nadu,Smartphone,Electronics,3,2661,400.65,0.05,Standard Class,Corporate
+20675,2024-09-11,Priya,North,Chennai,Karnataka,Camera,Electronics,3,17199,4026.86,0.13,Same Day,Corporate
+20651,2022-05-11,Neha,East,Hyderabad,Delhi,Headphones,Electronics,1,9215,2504.53,0.03,First Class,Home Office
+20660,2020-05-03,Amit,North,Kolkata,Delhi,Table,Furniture,3,20877,6470.12,0.06,First Class,Home Office
+20629,2022-08-06,Sneha,East,Mumbai,West Bengal,Fridge,Appliances,4,3036,363.8,0.24,Same Day,Consumer
+20737,2021-10-07,Neha,South,Kolkata,Karnataka,Smartphone,Electronics,4,19584,4190.87,0.11,Second Class,Home Office
+20881,2020-10-07,Meera,East,Mumbai,West Bengal,Fridge,Appliances,2,4100,361.77,0.21,Second Class,Home Office
+20713,2020-10-10,Sneha,North,Chennai,Karnataka,Sofa,Furniture,1,1831,440.4,0.13,Same Day,Corporate
+20936,2021-04-09,Tanya,West,Bangalore,Maharashtra,Laptop,Electronics,4,8248,972.48,0.22,Standard Class,Home Office
+20873,2024-07-18,Riya,West,Hyderabad,Maharashtra,Camera,Electronics,5,47885,13808.76,0.01,First Class,Home Office
+20469,2024-11-25,Karan,West,Kolkata,Delhi,Watch,Fashion,4,32604,2754.38,0.03,Standard Class,Consumer
+20482,2021-12-28,Amit,East,Pune,Delhi,Table,Furniture,5,3210,575.0,0.1,Same Day,Corporate
+20659,2020-01-26,Sneha,East,Bangalore,Karnataka,Table,Furniture,5,41430,7605.46,0.24,First Class,Home Office
+20772,2023-11-30,Arjun,West,Pune,Telangana,Sofa,Furniture,3,1479,194.45,0.14,Standard Class,Consumer
+20262,2020-08-01,Tanya,West,Mumbai,Delhi,Fan,Appliances,1,7016,1345.3,0.01,Same Day,Home Office
+20441,2020-04-02,Amit,South,Delhi,Telangana,Headphones,Electronics,3,5265,706.59,0.06,Standard Class,Consumer
+20881,2023-04-28,Meera,West,Hyderabad,Maharashtra,Jeans,Fashion,4,21148,2864.97,0.14,Standard Class,Consumer
+20363,2021-01-16,Tanya,East,Pune,Delhi,Camera,Electronics,5,26060,6127.23,0.03,First Class,Home Office
+20551,2021-01-31,Neha,West,Ahmedabad,Tamil Nadu,Fridge,Appliances,3,15906,1422.74,0.08,Standard Class,Home Office
+20109,2023-07-15,Amit,South,Pune,Telangana,Sofa,Furniture,2,13092,4401.66,0.22,Standard Class,Home Office
+20431,2021-12-27,Amit,West,Mumbai,Tamil Nadu,Oven,Appliances,4,29172,3705.09,0.2,Standard Class,Home Office
+20659,2024-11-09,Arjun,South,Pune,Tamil Nadu,Table,Furniture,4,16432,2814.34,0.1,Standard Class,Home Office
+20105,2020-07-20,Priya,West,Kolkata,Karnataka,Bottle,Accessories,3,28203,6792.1,0.27,Standard Class,Home Office
+20454,2021-10-28,Karan,South,Bangalore,West Bengal,Smartphone,Electronics,5,3430,720.95,0.04,Standard Class,Consumer
+20235,2023-08-27,Deepak,South,Bangalore,Tamil Nadu,Watch,Fashion,5,24845,5406.09,0.1,First Class,Consumer
+20438,2023-02-04,Priya,West,Bangalore,Maharashtra,Shoes,Fashion,3,11400,1511.8,0.09,Second Class,Corporate
+20800,2024-01-14,Rahul,East,Delhi,Telangana,Charger,Electronics,1,3434,273.56,0.27,Same Day,Corporate
+20612,2023-11-04,Amit,North,Pune,Karnataka,Book,Books,2,13766,1372.31,0.19,Standard Class,Consumer
+20787,2024-08-19,Deepak,North,Delhi,Telangana,Fan,Appliances,4,6968,1060.4,0.02,Second Class,Home Office
+20576,2020-11-20,Meera,North,Mumbai,Tamil Nadu,Smartphone,Electronics,4,39820,13794.08,0.14,Same Day,Consumer
+20926,2023-10-31,Meera,West,Kolkata,Maharashtra,Headphones,Electronics,3,14856,2455.13,0.01,Second Class,Home Office
+20563,2020-09-18,Neha,East,Pune,Telangana,Oven,Appliances,5,21545,6894.94,0.03,Second Class,Consumer
+20708,2022-02-24,Arjun,North,Ahmedabad,Telangana,Camera,Electronics,1,9288,1268.01,0.29,Same Day,Consumer
+20068,2022-12-28,Karan,East,Kolkata,Maharashtra,Camera,Electronics,1,2232,474.33,0.23,First Class,Home Office
+20354,2023-12-10,Rahul,North,Bangalore,Gujarat,Television,Electronics,5,3410,446.96,0.29,First Class,Home Office
+20280,2024-07-18,Rahul,North,Ahmedabad,Maharashtra,Sofa,Furniture,2,13904,4840.74,0.26,Same Day,Corporate
+20787,2020-06-13,Vikas,North,Mumbai,West Bengal,Table,Furniture,4,36592,9633.41,0.27,First Class,Home Office
+20822,2024-09-04,Arjun,West,Hyderabad,Delhi,Jeans,Fashion,4,31936,9205.97,0.08,Second Class,Corporate
+20883,2020-05-26,Deepak,West,Hyderabad,West Bengal,Blender,Appliances,4,24668,6817.9,0.15,First Class,Corporate
+20417,2023-05-24,Vikas,East,Mumbai,Karnataka,Oven,Appliances,3,9324,1479.54,0.22,Standard Class,Corporate
+20947,2024-09-06,Sneha,North,Delhi,Delhi,Book,Books,5,22790,2510.14,0.03,Same Day,Consumer
+20737,2022-04-19,Rahul,East,Ahmedabad,Maharashtra,Backpack,Accessories,3,8370,495.81,0.29,Standard Class,Home Office
+20480,2020-01-22,Riya,North,Ahmedabad,West Bengal,Jeans,Fashion,3,11811,2458.67,0.19,Standard Class,Corporate
+20696,2023-08-02,Tanya,East,Kolkata,Delhi,Oven,Appliances,3,23511,5949.37,0.25,First Class,Corporate
+20292,2020-01-25,Karan,East,Delhi,Karnataka,Laptop,Electronics,5,22680,6260.32,0.23,Same Day,Consumer
+20547,2020-07-12,Meera,East,Kolkata,West Bengal,Camera,Electronics,2,10674,1431.39,0.21,First Class,Corporate
+20910,2020-07-06,Priya,East,Mumbai,Maharashtra,Sofa,Furniture,5,12150,2512.29,0.09,Same Day,Consumer
+20380,2024-08-06,Riya,East,Kolkata,Gujarat,Smartphone,Electronics,2,3594,614.08,0.09,Same Day,Corporate
+20974,2021-09-23,Vikas,East,Chennai,West Bengal,Book,Books,5,13340,2864.02,0.07,Standard Class,Consumer
+20313,2023-07-28,Riya,South,Mumbai,Karnataka,Television,Electronics,2,15902,3775.69,0.02,Same Day,Corporate
+20878,2022-10-08,Karan,East,Hyderabad,Maharashtra,Oven,Appliances,4,6112,1986.63,0.22,Same Day,Home Office
+20850,2024-11-18,Priya,South,Ahmedabad,Telangana,Jeans,Fashion,1,8058,651.28,0.06,Standard Class,Corporate
+20294,2020-07-27,Vikas,North,Delhi,West Bengal,Fan,Appliances,1,2737,339.52,0.22,Standard Class,Home Office
+20659,2020-05-16,Neha,North,Hyderabad,Karnataka,Smartphone,Electronics,4,23484,6732.39,0.27,Standard Class,Home Office
+20691,2023-12-15,Amit,North,Chennai,Delhi,Laptop,Electronics,4,29576,1517.51,0.05,Standard Class,Home Office
+20536,2021-06-06,Amit,South,Delhi,Tamil Nadu,Shoes,Fashion,1,6132,500.43,0.23,Same Day,Consumer
+20502,2023-08-20,Vikas,West,Pune,Delhi,Camera,Electronics,3,11022,918.06,0.19,First Class,Consumer
+20013,2020-07-28,Karan,West,Chennai,Gujarat,Sofa,Furniture,4,18896,5875.31,0.22,Second Class,Consumer
+20173,2024-11-07,Priya,South,Delhi,Karnataka,Camera,Electronics,4,29880,4323.28,0.19,Standard Class,Corporate
+20533,2023-06-29,Neha,North,Mumbai,Telangana,Headphones,Electronics,5,38900,11553.02,0.23,Standard Class,Home Office
+20525,2024-08-27,Riya,South,Delhi,Karnataka,Smartphone,Electronics,1,7311,2446.65,0.01,First Class,Home Office
+20182,2022-06-02,Meera,West,Ahmedabad,Gujarat,Jeans,Fashion,1,9231,576.91,0.12,Standard Class,Home Office
+20465,2020-04-13,Arjun,East,Ahmedabad,Tamil Nadu,Charger,Electronics,3,18354,3024.26,0.11,Standard Class,Corporate
+20665,2020-02-02,Vikas,East,Bangalore,Gujarat,Book,Books,4,16036,3547.08,0.17,Standard Class,Consumer
+20307,2021-04-01,Neha,South,Bangalore,Tamil Nadu,Table,Furniture,1,9135,2921.71,0.21,Standard Class,Corporate
+20079,2023-02-21,Vikas,East,Pune,Karnataka,Charger,Electronics,2,18014,6076.79,0.28,Standard Class,Corporate
+20278,2020-08-20,Amit,North,Chennai,Karnataka,Charger,Electronics,2,650,197.7,0.09,First Class,Home Office
+20863,2023-12-06,Neha,East,Pune,Delhi,Jeans,Fashion,1,1372,458.55,0.1,Second Class,Consumer
+20686,2023-06-19,Deepak,South,Hyderabad,West Bengal,Television,Electronics,2,16126,3858.57,0.13,Second Class,Consumer
+20738,2020-01-15,Deepak,South,Hyderabad,Tamil Nadu,Fridge,Appliances,5,39285,5201.77,0.24,Second Class,Corporate
+20223,2024-10-23,Rahul,North,Mumbai,West Bengal,Backpack,Accessories,5,3960,257.38,0.25,Same Day,Home Office
+20863,2024-08-18,Arjun,North,Bangalore,West Bengal,Backpack,Accessories,1,9767,3403.27,0.21,Second Class,Corporate
+20357,2024-06-12,Priya,North,Kolkata,West Bengal,Bottle,Accessories,2,19550,5841.88,0.22,Standard Class,Corporate
+20245,2022-04-27,Priya,North,Kolkata,Gujarat,Smartphone,Electronics,5,13545,2615.13,0.22,First Class,Corporate
+20593,2020-07-05,Sneha,West,Ahmedabad,Karnataka,Fan,Appliances,5,42885,9902.97,0.25,Same Day,Consumer
+20938,2023-07-02,Neha,North,Kolkata,Delhi,T-shirt,Fashion,4,21068,6413.37,0.22,First Class,Corporate
+20349,2024-01-14,Arjun,East,Delhi,Delhi,Sofa,Furniture,5,15435,2109.43,0.12,First Class,Corporate
+20605,2020-11-22,Amit,East,Mumbai,Telangana,Headphones,Electronics,4,11004,3040.18,0.28,Standard Class,Home Office
+20017,2020-09-30,Sneha,South,Chennai,Karnataka,Chair,Furniture,5,17310,3023.73,0.25,Standard Class,Corporate
+20628,2023-07-13,Neha,West,Chennai,Delhi,Jeans,Fashion,1,4500,533.74,0.29,Second Class,Corporate
+20733,2024-05-22,Karan,West,Pune,Gujarat,Jeans,Fashion,3,2880,590.43,0.23,First Class,Consumer
+20327,2020-06-02,Meera,West,Chennai,Tamil Nadu,Watch,Fashion,5,24285,6899.6,0.14,First Class,Corporate
+20904,2021-07-06,Rahul,East,Pune,West Bengal,Blender,Appliances,4,19480,1377.28,0.28,Standard Class,Consumer
+20040,2020-07-07,Sneha,North,Pune,Tamil Nadu,Smartphone,Electronics,5,19535,3043.18,0.25,Second Class,Consumer
+20248,2021-09-19,Vikas,North,Bangalore,Telangana,Sofa,Furniture,5,26290,2322.99,0.23,Standard Class,Consumer
+20326,2023-10-12,Tanya,East,Pune,Karnataka,T-shirt,Fashion,5,23035,2744.04,0.0,First Class,Corporate
+20751,2023-04-07,Karan,East,Hyderabad,Delhi,Sofa,Furniture,2,17594,5609.18,0.25,Same Day,Home Office
+20382,2021-05-10,Neha,East,Pune,Maharashtra,Oven,Appliances,4,21764,3655.45,0.18,Standard Class,Home Office
+20202,2020-02-01,Neha,West,Ahmedabad,Karnataka,Smartphone,Electronics,1,9468,3178.09,0.01,Standard Class,Consumer
+20111,2020-06-01,Neha,West,Mumbai,Gujarat,Watch,Fashion,1,5610,1136.96,0.11,Standard Class,Home Office
+20096,2023-12-17,Neha,North,Mumbai,West Bengal,Backpack,Accessories,1,9498,2454.08,0.22,Second Class,Consumer
+20681,2021-04-21,Tanya,North,Pune,Delhi,Sofa,Furniture,4,39292,3819.1,0.04,Standard Class,Home Office
+20849,2022-08-20,Deepak,East,Bangalore,West Bengal,Oven,Appliances,4,7468,1240.97,0.27,Standard Class,Home Office
+20488,2020-03-18,Deepak,South,Delhi,Delhi,Laptop,Electronics,2,10192,807.76,0.17,Standard Class,Home Office
+20945,2023-04-06,Rahul,East,Kolkata,Karnataka,Laptop,Electronics,5,33630,6547.07,0.04,Same Day,Corporate
+20592,2022-06-09,Neha,East,Delhi,Tamil Nadu,T-shirt,Fashion,1,4031,1020.43,0.19,Second Class,Corporate
+20840,2021-06-02,Meera,North,Bangalore,Telangana,Headphones,Electronics,2,16502,5686.12,0.19,Same Day,Consumer
+20565,2020-11-26,Karan,South,Ahmedabad,West Bengal,Charger,Electronics,1,3249,488.05,0.22,Second Class,Consumer
+20033,2023-09-03,Priya,East,Bangalore,Delhi,Blender,Appliances,1,318,80.54,0.02,Second Class,Home Office
+20141,2023-01-12,Riya,East,Mumbai,Delhi,Book,Books,3,25857,7117.97,0.03,Standard Class,Corporate
+20569,2023-11-16,Deepak,South,Mumbai,Karnataka,T-shirt,Fashion,1,817,175.11,0.29,Standard Class,Consumer
+20425,2024-10-20,Amit,South,Hyderabad,Maharashtra,Charger,Electronics,3,19623,3824.76,0.08,Same Day,Corporate
+20939,2024-01-02,Vikas,East,Mumbai,Telangana,Oven,Appliances,4,11600,900.39,0.18,Same Day,Home Office
+20309,2022-03-12,Riya,East,Bangalore,West Bengal,Headphones,Electronics,3,12447,2305.26,0.2,Second Class,Consumer
+20508,2020-09-14,Sneha,East,Ahmedabad,Tamil Nadu,Laptop,Electronics,3,29007,5358.33,0.18,First Class,Corporate
+20891,2023-06-25,Riya,West,Pune,Delhi,Shoes,Fashion,2,5522,1402.77,0.12,Standard Class,Consumer
+20137,2023-04-02,Rahul,North,Mumbai,Maharashtra,Laptop,Electronics,2,4786,510.01,0.2,Same Day,Corporate
+20795,2020-02-23,Priya,West,Chennai,West Bengal,Headphones,Electronics,4,31896,2401.46,0.24,First Class,Home Office
+20073,2022-07-03,Meera,North,Chennai,Gujarat,Television,Electronics,3,8172,2052.83,0.21,Standard Class,Home Office
+20111,2024-02-12,Sneha,North,Mumbai,West Bengal,Oven,Appliances,1,6436,352.33,0.02,Second Class,Home Office
+20830,2023-08-30,Amit,East,Bangalore,West Bengal,Jeans,Fashion,2,3858,1294.16,0.25,Second Class,Home Office
+20319,2021-08-11,Meera,West,Kolkata,Telangana,Fridge,Appliances,3,6879,1403.89,0.08,First Class,Corporate
+20490,2021-12-21,Tanya,North,Delhi,Maharashtra,Backpack,Accessories,3,24972,3747.85,0.26,Standard Class,Corporate
+20568,2023-04-25,Karan,West,Kolkata,Tamil Nadu,Smartphone,Electronics,5,19705,2453.57,0.21,Second Class,Corporate
+20335,2020-04-01,Priya,East,Hyderabad,Karnataka,Smartphone,Electronics,3,22956,2532.73,0.18,First Class,Consumer
+20988,2023-05-15,Amit,North,Delhi,Maharashtra,Headphones,Electronics,2,17224,2205.89,0.05,Same Day,Consumer
+20860,2020-01-21,Priya,North,Bangalore,Karnataka,Book,Books,3,8904,2652.91,0.13,Same Day,Consumer
+20444,2020-10-09,Meera,North,Pune,Telangana,T-shirt,Fashion,1,8768,2391.55,0.02,Same Day,Consumer
+20544,2021-07-20,Karan,North,Chennai,Delhi,Shoes,Fashion,2,3000,605.07,0.28,Standard Class,Consumer
+20006,2022-10-07,Rahul,North,Pune,Telangana,Book,Books,1,386,116.33,0.26,First Class,Corporate
+20457,2023-08-01,Karan,South,Chennai,Telangana,Sofa,Furniture,4,7788,664.05,0.05,Same Day,Consumer
+20620,2022-11-07,Riya,South,Pune,Karnataka,Laptop,Electronics,1,5033,501.91,0.27,Second Class,Corporate
+20115,2022-07-20,Priya,East,Hyderabad,Gujarat,Camera,Electronics,2,14956,1848.65,0.02,Second Class,Home Office
+20382,2021-02-15,Meera,East,Mumbai,Gujarat,Table,Furniture,3,17784,3101.9,0.23,Standard Class,Home Office
+20449,2022-08-03,Priya,West,Delhi,Tamil Nadu,Bottle,Accessories,5,36005,8015.53,0.01,First Class,Consumer
+20832,2023-09-02,Vikas,East,Chennai,Delhi,Television,Electronics,5,49200,13748.46,0.2,Second Class,Consumer
+20753,2024-05-16,Amit,West,Mumbai,Karnataka,Jeans,Fashion,1,8742,1680.88,0.17,Standard Class,Home Office
+20144,2020-01-25,Riya,South,Delhi,Gujarat,Camera,Electronics,1,7560,2240.91,0.25,First Class,Home Office
+20718,2023-12-07,Rahul,South,Delhi,Maharashtra,Bottle,Accessories,2,8616,2712.04,0.14,Standard Class,Corporate
+20435,2021-01-18,Priya,North,Chennai,Maharashtra,Table,Furniture,4,26512,7235.77,0.25,Same Day,Consumer
+20834,2020-11-28,Riya,East,Hyderabad,Telangana,Oven,Appliances,4,25516,8490.8,0.01,First Class,Home Office
+20832,2020-02-09,Neha,South,Kolkata,Maharashtra,Shoes,Fashion,3,24117,6434.93,0.2,First Class,Home Office
+20062,2023-07-03,Amit,West,Ahmedabad,Delhi,Camera,Electronics,4,3880,1130.43,0.23,First Class,Consumer
+20250,2020-11-09,Karan,East,Ahmedabad,Karnataka,Blender,Appliances,5,15770,3993.63,0.23,First Class,Consumer
+20541,2021-07-24,Vikas,East,Chennai,Maharashtra,Camera,Electronics,4,8900,2447.44,0.27,First Class,Home Office
+20804,2021-05-04,Karan,North,Ahmedabad,Tamil Nadu,T-shirt,Fashion,4,15264,4043.73,0.08,Same Day,Home Office
+20955,2021-01-20,Arjun,South,Pune,Maharashtra,T-shirt,Fashion,4,14312,3111.12,0.18,Second Class,Home Office
+20318,2022-01-05,Amit,South,Chennai,Karnataka,Backpack,Accessories,1,4634,1116.93,0.22,Standard Class,Consumer
+20917,2023-11-02,Neha,East,Hyderabad,Karnataka,Shoes,Fashion,2,6692,1894.08,0.25,Same Day,Home Office
+20869,2020-12-05,Arjun,West,Kolkata,Gujarat,Laptop,Electronics,4,37040,7007.86,0.08,Standard Class,Consumer
+20517,2022-04-07,Meera,North,Pune,Tamil Nadu,Fridge,Appliances,2,8118,1192.6,0.27,First Class,Home Office
+20230,2023-07-05,Meera,North,Pune,West Bengal,Jeans,Fashion,1,1505,394.39,0.29,First Class,Home Office
+20480,2021-07-26,Deepak,North,Kolkata,Karnataka,Headphones,Electronics,5,36510,4470.61,0.01,Standard Class,Consumer
+20459,2024-09-18,Karan,North,Ahmedabad,Karnataka,Bottle,Accessories,3,20832,2491.62,0.0,Second Class,Corporate
+20928,2024-09-14,Neha,North,Pune,West Bengal,Headphones,Electronics,3,15312,4736.46,0.18,Standard Class,Consumer
+20683,2024-01-13,Deepak,South,Pune,Karnataka,Jeans,Fashion,1,5695,1257.71,0.26,First Class,Corporate
+20709,2023-04-29,Neha,West,Hyderabad,Delhi,Watch,Fashion,3,18240,6280.68,0.19,Standard Class,Corporate
+20014,2024-10-04,Neha,East,Delhi,West Bengal,Fan,Appliances,3,21411,3467.23,0.28,Standard Class,Consumer
+20511,2022-05-06,Tanya,South,Mumbai,Gujarat,T-shirt,Fashion,3,21846,5020.01,0.05,Same Day,Corporate
+20721,2020-04-02,Priya,West,Hyderabad,Telangana,Chair,Furniture,2,2870,165.0,0.05,First Class,Corporate
+20643,2023-03-25,Meera,South,Kolkata,Karnataka,Sofa,Furniture,5,10785,2391.92,0.08,Same Day,Corporate
+20936,2023-03-19,Sneha,West,Hyderabad,Telangana,Table,Furniture,5,37145,2799.6,0.18,Same Day,Home Office
+20747,2021-06-02,Neha,West,Chennai,Maharashtra,Oven,Appliances,3,23046,3133.24,0.24,First Class,Home Office
+20465,2024-11-09,Vikas,West,Delhi,Delhi,Table,Furniture,5,20525,1814.02,0.1,Standard Class,Home Office
+20064,2022-03-20,Rahul,South,Ahmedabad,Maharashtra,Fridge,Appliances,3,19095,3339.06,0.05,First Class,Corporate
+20928,2021-07-17,Karan,West,Kolkata,Telangana,Chair,Furniture,3,24816,6893.58,0.29,Same Day,Home Office
+20192,2022-06-22,Meera,South,Bangalore,Gujarat,T-shirt,Fashion,4,31548,7956.35,0.02,Standard Class,Corporate
+20338,2020-06-14,Meera,South,Ahmedabad,Telangana,Smartphone,Electronics,3,6933,1630.4,0.05,Same Day,Corporate
+20920,2023-10-10,Arjun,North,Pune,Maharashtra,Blender,Appliances,4,23048,1721.26,0.14,First Class,Corporate
+20181,2020-07-02,Priya,East,Mumbai,Gujarat,Camera,Electronics,5,27540,6121.76,0.2,Same Day,Consumer
+20975,2022-04-10,Vikas,South,Chennai,Delhi,Book,Books,5,17015,5391.3,0.11,First Class,Consumer
+20447,2023-12-22,Riya,North,Ahmedabad,Telangana,Bottle,Accessories,4,2104,609.98,0.04,First Class,Home Office
+20488,2022-05-26,Amit,East,Hyderabad,Karnataka,Television,Electronics,5,29045,6399.14,0.17,Second Class,Corporate
+20551,2022-12-31,Tanya,West,Kolkata,Tamil Nadu,Sofa,Furniture,3,10686,2364.42,0.06,Second Class,Home Office
+20758,2022-01-07,Riya,West,Delhi,West Bengal,Backpack,Accessories,1,9721,1223.29,0.28,Same Day,Home Office
+20799,2020-12-14,Karan,North,Pune,Maharashtra,Chair,Furniture,1,5120,1598.57,0.07,Second Class,Consumer
+20626,2020-10-02,Sneha,West,Mumbai,West Bengal,Sofa,Furniture,1,3279,614.8,0.11,Standard Class,Corporate
+20109,2023-07-26,Meera,North,Ahmedabad,Gujarat,Table,Furniture,3,4302,1387.53,0.14,Standard Class,Consumer
+20002,2022-01-27,Priya,East,Chennai,Telangana,Television,Electronics,5,35255,5737.45,0.21,Second Class,Consumer
+20661,2024-07-05,Vikas,North,Pune,Karnataka,Television,Electronics,3,21213,5324.67,0.14,Same Day,Home Office
+20926,2021-02-20,Tanya,West,Delhi,Gujarat,Chair,Furniture,1,2017,703.77,0.24,First Class,Corporate
+20140,2024-02-13,Tanya,East,Kolkata,Gujarat,Table,Furniture,3,29508,6882.19,0.06,First Class,Home Office
+20273,2024-02-13,Deepak,North,Kolkata,West Bengal,Table,Furniture,2,16800,4617.11,0.13,Same Day,Consumer
+20139,2022-05-05,Amit,South,Kolkata,Telangana,Bottle,Accessories,2,19156,1196.29,0.19,First Class,Consumer
+20028,2024-04-22,Vikas,North,Bangalore,Maharashtra,Watch,Fashion,3,23133,6285.7,0.08,First Class,Corporate
+20288,2022-09-03,Tanya,West,Delhi,Maharashtra,Shoes,Fashion,4,7268,2095.69,0.08,Second Class,Home Office
+20210,2022-03-26,Meera,North,Pune,Karnataka,Laptop,Electronics,4,19468,3149.0,0.28,Same Day,Home Office
+20287,2021-04-16,Vikas,South,Mumbai,Delhi,Fridge,Appliances,5,45140,14624.0,0.06,Same Day,Corporate
+20282,2022-07-04,Meera,East,Kolkata,Karnataka,T-shirt,Fashion,3,24906,3444.0,0.03,First Class,Consumer
+20105,2024-09-12,Arjun,West,Pune,Delhi,Oven,Appliances,2,5396,847.34,0.23,Same Day,Home Office
+20246,2024-06-12,Priya,West,Hyderabad,Tamil Nadu,Headphones,Electronics,2,11704,3473.14,0.05,Standard Class,Consumer
+20143,2020-09-06,Sneha,West,Bangalore,Gujarat,Oven,Appliances,1,9475,805.14,0.16,Standard Class,Home Office
+20471,2020-03-31,Priya,East,Chennai,Tamil Nadu,Headphones,Electronics,3,23127,5045.71,0.28,Same Day,Home Office
+20890,2023-06-14,Karan,North,Ahmedabad,Karnataka,Watch,Fashion,3,4680,1055.45,0.07,First Class,Corporate
+20819,2020-01-30,Neha,North,Hyderabad,Karnataka,Charger,Electronics,4,17224,1752.67,0.17,First Class,Consumer
+20890,2021-08-28,Tanya,West,Delhi,Gujarat,Book,Books,2,12800,1561.87,0.04,First Class,Consumer
+20278,2021-07-05,Karan,East,Delhi,Telangana,Oven,Appliances,1,4204,384.1,0.21,Second Class,Consumer
+20678,2021-09-02,Meera,West,Hyderabad,Tamil Nadu,Oven,Appliances,1,4924,1069.46,0.05,Second Class,Consumer
+20774,2020-06-11,Meera,West,Hyderabad,Tamil Nadu,Oven,Appliances,5,41310,11750.7,0.08,Same Day,Home Office
+20982,2021-07-23,Amit,West,Mumbai,Maharashtra,Smartphone,Electronics,2,16564,3191.53,0.12,Second Class,Home Office
+20388,2022-02-23,Tanya,North,Kolkata,West Bengal,Fridge,Appliances,5,39330,9196.88,0.28,Same Day,Home Office
+20916,2024-06-23,Rahul,South,Delhi,West Bengal,Blender,Appliances,4,8780,1280.96,0.13,First Class,Home Office
+20800,2023-04-02,Riya,West,Bangalore,Telangana,Fridge,Appliances,5,36615,4213.91,0.09,Same Day,Home Office
+20388,2021-03-04,Deepak,East,Chennai,Maharashtra,Sofa,Furniture,2,2114,307.18,0.29,First Class,Consumer
+20776,2021-08-05,Meera,South,Hyderabad,Maharashtra,Charger,Electronics,3,13494,3246.98,0.19,First Class,Corporate
+20882,2023-05-05,Karan,West,Mumbai,Tamil Nadu,Book,Books,4,18264,5809.38,0.2,Second Class,Corporate
+20494,2021-09-11,Sneha,South,Bangalore,Telangana,Backpack,Accessories,2,7034,878.2,0.16,Standard Class,Consumer
+20624,2021-01-10,Neha,North,Kolkata,Tamil Nadu,Headphones,Electronics,2,8044,2122.44,0.21,First Class,Consumer
+20416,2021-12-26,Meera,North,Kolkata,Maharashtra,Backpack,Accessories,3,24003,2153.58,0.11,First Class,Home Office
+20515,2023-11-17,Arjun,East,Bangalore,Gujarat,Charger,Electronics,1,9332,973.84,0.19,First Class,Consumer
+20030,2020-10-07,Arjun,North,Hyderabad,Maharashtra,Smartphone,Electronics,5,38575,6767.73,0.23,Second Class,Corporate
+20606,2021-01-09,Tanya,North,Chennai,Telangana,Fridge,Appliances,3,25821,3890.89,0.02,First Class,Home Office
+20685,2022-06-21,Vikas,South,Kolkata,Tamil Nadu,Television,Electronics,2,18938,1234.51,0.01,Standard Class,Home Office
+20187,2021-10-17,Riya,West,Pune,Telangana,Charger,Electronics,3,26766,3328.67,0.21,Same Day,Consumer
+20642,2024-02-06,Neha,North,Ahmedabad,Karnataka,Oven,Appliances,4,9436,1633.83,0.05,First Class,Consumer
+20981,2021-06-03,Karan,East,Ahmedabad,Telangana,Blender,Appliances,4,12572,819.29,0.19,Standard Class,Corporate
+20970,2022-12-30,Sneha,North,Mumbai,Tamil Nadu,Watch,Fashion,5,22950,4482.53,0.21,Same Day,Home Office
+20064,2020-06-13,Neha,North,Hyderabad,Karnataka,Chair,Furniture,5,26165,4028.56,0.12,Same Day,Corporate
+20030,2020-02-14,Rahul,West,Delhi,Gujarat,Smartphone,Electronics,5,46605,15976.65,0.1,Same Day,Home Office
+20915,2024-04-22,Riya,West,Pune,Telangana,Chair,Furniture,1,8639,2176.4,0.25,Second Class,Consumer
+20587,2024-08-27,Riya,South,Hyderabad,Gujarat,Shoes,Fashion,5,31145,5710.7,0.15,Same Day,Home Office
+20384,2020-06-11,Tanya,West,Ahmedabad,Delhi,Bottle,Accessories,5,2935,692.12,0.12,Second Class,Corporate
+20864,2020-05-23,Vikas,South,Bangalore,Gujarat,Jeans,Fashion,1,5302,1149.78,0.23,Second Class,Home Office
+20721,2023-06-02,Neha,South,Kolkata,Maharashtra,Laptop,Electronics,4,22400,6263.24,0.08,Same Day,Home Office
+20171,2023-09-16,Rahul,West,Hyderabad,Telangana,Charger,Electronics,3,8511,2696.91,0.28,Standard Class,Corporate
+20596,2024-08-28,Arjun,South,Pune,Tamil Nadu,T-shirt,Fashion,4,2388,286.56,0.19,Standard Class,Corporate
+20246,2024-10-09,Riya,West,Ahmedabad,Delhi,Chair,Furniture,2,11944,4169.33,0.06,Standard Class,Corporate
+20588,2020-07-19,Deepak,East,Mumbai,Gujarat,Smartphone,Electronics,4,30024,7188.12,0.13,Same Day,Corporate
+20569,2023-01-06,Priya,North,Mumbai,Telangana,Oven,Appliances,4,9888,567.62,0.11,Second Class,Corporate
+20674,2023-02-25,Deepak,West,Delhi,Tamil Nadu,Charger,Electronics,4,29956,6220.1,0.21,Same Day,Consumer
+20164,2020-05-27,Priya,West,Chennai,West Bengal,Backpack,Accessories,3,2886,145.26,0.08,First Class,Consumer
+20462,2024-11-01,Riya,West,Delhi,Delhi,Charger,Electronics,1,7448,2243.18,0.04,Second Class,Home Office
+20310,2021-05-09,Arjun,East,Kolkata,Delhi,Smartphone,Electronics,5,20830,3553.77,0.22,First Class,Corporate
+20245,2023-08-03,Rahul,East,Bangalore,West Bengal,Television,Electronics,4,22116,1191.37,0.16,Same Day,Consumer
+20645,2023-05-09,Riya,West,Bangalore,Gujarat,Smartphone,Electronics,5,26160,4358.72,0.07,First Class,Consumer
+20608,2024-05-29,Vikas,South,Chennai,Gujarat,Oven,Appliances,3,8625,3007.28,0.17,Standard Class,Home Office
+20129,2021-12-06,Sneha,East,Bangalore,Karnataka,Backpack,Accessories,5,27655,2487.93,0.19,First Class,Consumer
+20212,2024-07-02,Sneha,North,Chennai,Karnataka,Camera,Electronics,4,2168,433.57,0.22,Standard Class,Home Office
+20441,2023-01-14,Arjun,West,Kolkata,Maharashtra,Chair,Furniture,5,27310,2973.34,0.04,Second Class,Corporate
+20919,2020-10-25,Arjun,East,Hyderabad,West Bengal,Camera,Electronics,4,18424,5522.14,0.29,First Class,Home Office
+20666,2022-12-01,Neha,South,Bangalore,Delhi,Jeans,Fashion,2,7292,1872.54,0.08,Second Class,Consumer
+20867,2023-06-09,Meera,South,Bangalore,West Bengal,Chair,Furniture,3,20406,3874.17,0.06,Second Class,Corporate
+20563,2024-07-10,Karan,South,Delhi,Karnataka,Fridge,Appliances,5,4495,1470.91,0.29,Standard Class,Corporate
+20630,2020-09-16,Neha,North,Mumbai,Delhi,Television,Electronics,2,15364,4409.54,0.1,First Class,Home Office
+20054,2024-04-13,Rahul,South,Bangalore,Tamil Nadu,Laptop,Electronics,4,10724,732.79,0.15,First Class,Corporate
+20685,2020-03-19,Meera,South,Ahmedabad,Gujarat,Bottle,Accessories,2,1612,399.63,0.13,Same Day,Corporate
+20217,2024-02-22,Vikas,South,Hyderabad,West Bengal,Television,Electronics,2,2984,310.8,0.08,Same Day,Consumer
+20820,2021-11-03,Amit,South,Bangalore,Delhi,Charger,Electronics,5,7555,746.42,0.22,First Class,Corporate
+20071,2021-04-22,Priya,West,Kolkata,West Bengal,Camera,Electronics,5,23430,1990.22,0.08,Same Day,Corporate
+20283,2024-04-16,Tanya,East,Bangalore,Tamil Nadu,Fan,Appliances,4,3228,1012.4,0.17,First Class,Home Office
+20529,2024-04-23,Deepak,West,Mumbai,Maharashtra,Blender,Appliances,1,4015,442.58,0.09,Second Class,Corporate
+20693,2020-09-11,Vikas,East,Chennai,Maharashtra,Laptop,Electronics,2,5892,870.28,0.12,Same Day,Corporate
+20607,2024-11-24,Karan,North,Hyderabad,Tamil Nadu,T-shirt,Fashion,1,6389,1871.35,0.29,First Class,Home Office
+20844,2024-11-17,Amit,South,Kolkata,Gujarat,Jeans,Fashion,5,43810,10212.69,0.01,Same Day,Corporate
+20683,2024-10-11,Arjun,West,Kolkata,Maharashtra,Backpack,Accessories,5,48505,8865.41,0.01,Second Class,Home Office
+20196,2022-05-30,Priya,East,Ahmedabad,Gujarat,Smartphone,Electronics,4,9924,1883.92,0.13,Standard Class,Home Office
+20910,2024-08-29,Arjun,North,Mumbai,Tamil Nadu,Bottle,Accessories,1,8756,493.02,0.25,Standard Class,Home Office
+20480,2024-01-06,Deepak,South,Bangalore,Tamil Nadu,Book,Books,2,8308,1973.97,0.0,First Class,Home Office
+20975,2020-02-04,Riya,West,Kolkata,Tamil Nadu,Charger,Electronics,5,17190,2833.52,0.25,Same Day,Home Office
+20451,2021-07-10,Meera,East,Pune,Gujarat,Blender,Appliances,5,19335,2137.53,0.08,Standard Class,Consumer
+20614,2020-08-13,Tanya,North,Mumbai,Karnataka,Television,Electronics,5,49715,3165.63,0.28,Second Class,Consumer
+20345,2024-01-28,Arjun,East,Delhi,Maharashtra,Fridge,Appliances,1,8911,1402.96,0.3,First Class,Consumer
+20190,2023-03-10,Neha,North,Ahmedabad,Karnataka,Fridge,Appliances,4,6568,1649.42,0.19,First Class,Home Office
+20732,2021-04-25,Sneha,South,Chennai,Tamil Nadu,Fridge,Appliances,1,5389,336.43,0.29,Second Class,Home Office
+20709,2024-04-09,Sneha,West,Pune,Tamil Nadu,Fan,Appliances,2,19162,4336.54,0.03,First Class,Home Office
+20114,2023-02-08,Tanya,West,Ahmedabad,Delhi,Jeans,Fashion,3,28470,3479.07,0.26,Second Class,Consumer
+20705,2021-07-16,Neha,East,Bangalore,West Bengal,Bottle,Accessories,2,13038,3510.63,0.13,First Class,Consumer
+20692,2020-09-09,Amit,North,Hyderabad,Gujarat,Watch,Fashion,2,12060,1109.47,0.12,Same Day,Corporate
+20310,2021-10-23,Arjun,South,Chennai,Maharashtra,Blender,Appliances,3,14517,5055.18,0.0,First Class,Home Office
+20744,2020-03-25,Tanya,West,Hyderabad,Tamil Nadu,Camera,Electronics,1,5058,712.41,0.22,First Class,Home Office
+20491,2024-08-08,Vikas,West,Kolkata,Gujarat,Oven,Appliances,1,2240,429.01,0.17,Standard Class,Corporate
+20680,2021-03-10,Deepak,North,Pune,Tamil Nadu,Book,Books,2,5374,1396.18,0.1,Standard Class,Consumer
+20090,2020-10-22,Amit,South,Mumbai,Delhi,Chair,Furniture,5,35360,2414.33,0.21,Second Class,Consumer
+20134,2023-09-16,Tanya,East,Delhi,West Bengal,Backpack,Accessories,5,47950,10810.25,0.28,First Class,Consumer
+20146,2023-06-18,Sneha,East,Mumbai,Delhi,Sofa,Furniture,3,7044,767.01,0.01,Same Day,Corporate
+20912,2024-10-27,Rahul,North,Mumbai,Karnataka,Bottle,Accessories,1,4923,682.94,0.08,Second Class,Home Office
+20872,2024-01-02,Priya,West,Kolkata,Gujarat,Smartphone,Electronics,1,8536,1932.53,0.13,Same Day,Consumer
+20287,2022-09-28,Deepak,West,Pune,Delhi,Chair,Furniture,2,10702,582.0,0.11,First Class,Home Office
+20621,2023-03-06,Deepak,North,Bangalore,Gujarat,Shoes,Fashion,1,571,85.56,0.17,Standard Class,Home Office
+20658,2021-09-14,Priya,West,Pune,Telangana,Sofa,Furniture,4,21332,5776.18,0.06,Standard Class,Home Office
+20768,2021-06-04,Karan,South,Bangalore,Delhi,Jeans,Fashion,3,23295,7168.65,0.15,Same Day,Consumer
+20308,2020-07-17,Priya,East,Delhi,Gujarat,Book,Books,5,7370,1221.81,0.11,Standard Class,Home Office
+20434,2022-02-26,Arjun,East,Hyderabad,West Bengal,Television,Electronics,5,37985,12898.3,0.13,Same Day,Corporate
+20698,2023-01-27,Priya,South,Pune,Telangana,Jeans,Fashion,4,38828,9350.58,0.12,Same Day,Home Office
+20144,2021-01-18,Meera,East,Hyderabad,Karnataka,Camera,Electronics,4,18448,2714.06,0.23,Second Class,Consumer
+20519,2024-04-14,Rahul,West,Ahmedabad,Karnataka,Television,Electronics,1,1467,287.32,0.03,Same Day,Corporate
+20595,2024-04-26,Amit,West,Mumbai,Gujarat,Sofa,Furniture,5,6650,2042.68,0.23,Standard Class,Corporate
+20134,2020-10-11,Tanya,South,Kolkata,Maharashtra,Television,Electronics,3,22011,3161.2,0.24,Second Class,Consumer
+20688,2020-01-21,Riya,North,Chennai,Delhi,Book,Books,3,19866,6629.78,0.09,First Class,Home Office
+20669,2020-07-09,Meera,North,Kolkata,Telangana,Shoes,Fashion,3,2034,491.22,0.09,First Class,Home Office
+20967,2020-06-20,Vikas,North,Kolkata,Gujarat,Camera,Electronics,3,15714,3975.54,0.19,First Class,Consumer
+20209,2024-10-28,Karan,West,Chennai,Tamil Nadu,Blender,Appliances,3,2013,664.61,0.12,Second Class,Home Office
+20415,2023-01-23,Amit,East,Pune,Maharashtra,Chair,Furniture,2,19130,2714.36,0.1,First Class,Corporate
+20804,2020-09-03,Meera,West,Ahmedabad,Telangana,Oven,Appliances,3,15291,5086.05,0.09,Same Day,Consumer
+20884,2022-01-22,Amit,East,Pune,Tamil Nadu,Smartphone,Electronics,4,37520,3807.49,0.05,First Class,Consumer
+20921,2021-07-03,Meera,West,Mumbai,Maharashtra,Smartphone,Electronics,1,4735,836.47,0.24,First Class,Consumer
+20128,2021-09-16,Neha,South,Delhi,Gujarat,Television,Electronics,2,5700,1571.12,0.15,Second Class,Corporate
+20985,2020-11-20,Karan,West,Hyderabad,Telangana,Chair,Furniture,3,21456,6621.81,0.03,First Class,Corporate
+20674,2024-01-02,Riya,South,Kolkata,West Bengal,Fridge,Appliances,1,7404,885.17,0.21,Same Day,Consumer
+20059,2024-04-16,Amit,East,Mumbai,Maharashtra,T-shirt,Fashion,1,3810,231.18,0.3,Same Day,Corporate
+20472,2022-12-15,Amit,South,Delhi,Gujarat,Sofa,Furniture,2,6082,926.73,0.13,First Class,Consumer
+20658,2022-07-07,Riya,South,Pune,Telangana,Bottle,Accessories,2,10522,1980.45,0.3,Same Day,Corporate
+20470,2024-03-09,Amit,North,Kolkata,Gujarat,Shoes,Fashion,1,8543,2638.73,0.08,Second Class,Corporate
+20844,2023-08-14,Rahul,North,Ahmedabad,Gujarat,Bottle,Accessories,4,25612,1808.07,0.3,Second Class,Consumer
+20967,2020-03-23,Riya,South,Mumbai,Delhi,Headphones,Electronics,5,19525,6701.93,0.24,First Class,Consumer
+20543,2023-03-27,Priya,East,Delhi,Karnataka,Television,Electronics,1,1530,435.97,0.04,Same Day,Home Office
+20482,2024-12-31,Priya,East,Chennai,Tamil Nadu,Laptop,Electronics,4,29184,6227.55,0.02,First Class,Consumer
+20528,2021-05-06,Neha,North,Delhi,West Bengal,Table,Furniture,2,6390,541.03,0.25,Same Day,Home Office
+20535,2023-11-15,Arjun,West,Pune,West Bengal,Book,Books,4,25064,7858.18,0.29,Second Class,Corporate
+20002,2022-10-30,Priya,East,Chennai,Maharashtra,Television,Electronics,5,10805,2662.54,0.12,Standard Class,Corporate
+20198,2020-07-29,Priya,South,Delhi,Gujarat,Backpack,Accessories,5,28490,9551.15,0.06,First Class,Home Office
+20548,2021-09-12,Vikas,West,Hyderabad,Tamil Nadu,Watch,Fashion,5,9450,2823.14,0.15,Second Class,Home Office
+20154,2024-04-19,Rahul,South,Kolkata,Gujarat,Smartphone,Electronics,1,3028,984.99,0.27,Same Day,Home Office
+20617,2022-10-21,Sneha,West,Delhi,Delhi,Backpack,Accessories,2,5860,1743.01,0.21,Standard Class,Corporate
+20074,2024-07-08,Deepak,West,Delhi,Telangana,Bottle,Accessories,4,17804,4022.88,0.16,Second Class,Home Office
+20187,2021-05-12,Deepak,West,Pune,Maharashtra,Smartphone,Electronics,4,26228,8264.58,0.1,First Class,Corporate
+20993,2021-12-15,Deepak,West,Delhi,Delhi,Watch,Fashion,3,10464,1737.47,0.02,Same Day,Corporate
+20728,2020-08-16,Tanya,South,Ahmedabad,Telangana,Smartphone,Electronics,1,9833,2887.93,0.1,Standard Class,Consumer
+20168,2022-08-11,Neha,North,Mumbai,Delhi,Fan,Appliances,5,2255,167.52,0.26,Second Class,Consumer
+20073,2022-11-03,Amit,North,Pune,West Bengal,Shoes,Fashion,2,14924,4050.05,0.18,First Class,Consumer
+20783,2022-09-14,Karan,East,Mumbai,Delhi,Bottle,Accessories,2,19338,2951.75,0.29,Second Class,Consumer
+20810,2022-02-25,Amit,South,Kolkata,Karnataka,Charger,Electronics,1,4572,656.8,0.22,Standard Class,Home Office
+20868,2024-07-11,Vikas,North,Mumbai,Telangana,Fridge,Appliances,4,29420,1833.47,0.22,Standard Class,Consumer
+20464,2020-05-23,Deepak,North,Hyderabad,West Bengal,Table,Furniture,5,24410,3834.68,0.19,Same Day,Home Office
+20666,2020-03-30,Vikas,South,Kolkata,Maharashtra,Laptop,Electronics,2,6984,1360.35,0.06,Same Day,Consumer
+20398,2021-09-11,Amit,West,Mumbai,Tamil Nadu,Charger,Electronics,2,18094,3812.23,0.19,Second Class,Corporate
+20924,2022-09-22,Meera,West,Bangalore,Maharashtra,Smartphone,Electronics,2,3560,560.3,0.1,Standard Class,Corporate
+20596,2023-07-23,Neha,West,Chennai,Telangana,Fridge,Appliances,3,23367,7165.85,0.13,First Class,Corporate
+20134,2023-04-30,Sneha,West,Ahmedabad,West Bengal,Fan,Appliances,4,18300,5393.44,0.18,First Class,Home Office
+20774,2020-03-24,Neha,South,Chennai,Gujarat,Jeans,Fashion,5,5575,874.32,0.2,First Class,Home Office
+20693,2023-08-09,Tanya,East,Hyderabad,Maharashtra,Oven,Appliances,3,19155,2174.55,0.01,Standard Class,Consumer
+20472,2022-06-11,Rahul,South,Mumbai,Delhi,Fridge,Appliances,2,8046,867.85,0.03,Second Class,Consumer
+20657,2022-08-20,Rahul,South,Delhi,Karnataka,Laptop,Electronics,4,37448,8619.59,0.05,Second Class,Consumer
+20850,2020-07-15,Rahul,East,Pune,Delhi,Smartphone,Electronics,4,22000,5859.47,0.06,Standard Class,Home Office
+20895,2021-10-13,Tanya,South,Bangalore,Tamil Nadu,Smartphone,Electronics,2,3948,358.92,0.22,Standard Class,Consumer
+20526,2022-01-21,Riya,East,Delhi,Delhi,Fan,Appliances,5,46725,10160.41,0.1,First Class,Home Office
+20410,2023-12-16,Riya,South,Hyderabad,West Bengal,Charger,Electronics,4,25044,8168.37,0.0,Standard Class,Home Office
+20266,2023-02-17,Meera,West,Bangalore,Delhi,Backpack,Accessories,5,32500,3931.95,0.15,First Class,Corporate
+20756,2020-12-17,Arjun,South,Delhi,West Bengal,Blender,Appliances,2,5260,665.95,0.25,Second Class,Corporate
+20791,2022-01-07,Tanya,South,Pune,Delhi,Chair,Furniture,5,31090,1975.63,0.13,Standard Class,Corporate
+20229,2023-06-03,Sneha,South,Bangalore,Tamil Nadu,Headphones,Electronics,3,22392,4954.73,0.1,Same Day,Consumer
+20906,2020-12-08,Sneha,West,Delhi,Karnataka,Television,Electronics,3,1479,504.37,0.26,First Class,Consumer
+20042,2022-07-03,Priya,North,Delhi,Maharashtra,Watch,Fashion,3,28335,7858.23,0.08,Standard Class,Corporate
+20057,2020-04-21,Karan,West,Mumbai,West Bengal,Sofa,Furniture,3,17034,5205.84,0.17,Second Class,Home Office
+20108,2021-10-29,Priya,West,Hyderabad,Karnataka,Sofa,Furniture,5,26960,4535.4,0.26,Same Day,Home Office
+20329,2021-06-27,Karan,West,Pune,Gujarat,Sofa,Furniture,5,15960,2098.18,0.09,First Class,Corporate
+20040,2022-07-12,Rahul,North,Chennai,Gujarat,Oven,Appliances,4,8704,1409.18,0.06,Same Day,Corporate
+20221,2021-05-10,Amit,North,Mumbai,Delhi,Book,Books,5,25290,8488.05,0.1,First Class,Home Office
+20300,2024-06-13,Karan,North,Mumbai,Telangana,Blender,Appliances,1,7988,1689.53,0.27,Second Class,Home Office
+20226,2021-09-06,Deepak,East,Ahmedabad,Delhi,Sofa,Furniture,2,5874,468.56,0.13,Standard Class,Consumer
+20200,2023-01-29,Rahul,South,Kolkata,Maharashtra,T-shirt,Fashion,3,20460,2469.04,0.09,Standard Class,Home Office
+20396,2022-10-10,Sneha,North,Chennai,Tamil Nadu,Fan,Appliances,4,30992,5316.51,0.07,Standard Class,Home Office
+20658,2022-07-27,Rahul,East,Bangalore,Maharashtra,Smartphone,Electronics,1,2297,386.19,0.18,Standard Class,Corporate
+20336,2021-08-10,Sneha,East,Ahmedabad,West Bengal,Watch,Fashion,2,6186,994.75,0.2,Standard Class,Home Office
+20686,2023-04-08,Riya,North,Bangalore,Gujarat,Book,Books,2,11730,2925.72,0.13,Standard Class,Home Office
+20215,2022-06-16,Amit,West,Delhi,Gujarat,Table,Furniture,3,18690,3748.91,0.27,Same Day,Corporate
+20461,2022-06-29,Neha,South,Pune,Karnataka,Shoes,Fashion,4,15164,4201.62,0.21,Second Class,Consumer
+20817,2021-08-10,Vikas,West,Ahmedabad,Tamil Nadu,Shoes,Fashion,4,32660,9730.7,0.17,First Class,Home Office
+20917,2023-03-14,Priya,North,Bangalore,Gujarat,Watch,Fashion,5,3510,496.56,0.06,Second Class,Home Office
+20761,2021-03-03,Karan,North,Chennai,Gujarat,Shoes,Fashion,3,27111,8029.29,0.0,Same Day,Corporate
+20453,2021-01-28,Deepak,East,Hyderabad,Tamil Nadu,Backpack,Accessories,3,5301,1387.19,0.16,Standard Class,Consumer
+20030,2024-10-14,Amit,East,Pune,West Bengal,Camera,Electronics,1,3429,309.74,0.14,Standard Class,Corporate
+20484,2023-08-22,Amit,East,Hyderabad,Delhi,Sofa,Furniture,1,745,133.99,0.16,Second Class,Corporate
+20897,2022-12-30,Deepak,South,Pune,Telangana,Blender,Appliances,4,21244,4550.28,0.27,Standard Class,Consumer
+20057,2024-06-16,Rahul,North,Pune,Tamil Nadu,Laptop,Electronics,1,1710,506.46,0.12,Same Day,Home Office
+20998,2020-02-24,Sneha,North,Chennai,Delhi,Chair,Furniture,4,17408,3336.56,0.21,Second Class,Home Office
+20599,2020-07-19,Amit,East,Bangalore,Delhi,Smartphone,Electronics,3,19962,5068.58,0.17,Second Class,Corporate
+20017,2020-10-09,Priya,West,Ahmedabad,Tamil Nadu,Shoes,Fashion,3,17655,2405.55,0.16,Standard Class,Home Office
+20388,2024-09-28,Arjun,South,Delhi,West Bengal,Shoes,Fashion,5,11460,1506.98,0.03,Standard Class,Corporate
+20780,2023-05-18,Amit,East,Bangalore,Karnataka,Jeans,Fashion,3,17094,2826.57,0.1,Same Day,Consumer
+20419,2024-10-15,Neha,South,Pune,West Bengal,Bottle,Accessories,5,6995,1830.22,0.06,Standard Class,Consumer
+20827,2023-01-24,Vikas,West,Ahmedabad,Telangana,Fan,Appliances,3,18453,5702.52,0.04,Standard Class,Corporate
+20479,2024-11-24,Priya,North,Hyderabad,Gujarat,Book,Books,4,6900,617.02,0.08,Standard Class,Home Office
+20179,2021-06-30,Priya,East,Hyderabad,Telangana,Watch,Fashion,4,38076,11469.82,0.1,Same Day,Corporate
+20159,2023-07-26,Sneha,West,Mumbai,Tamil Nadu,Backpack,Accessories,4,31720,5261.91,0.11,Standard Class,Home Office
+20620,2020-06-26,Deepak,West,Mumbai,Delhi,Backpack,Accessories,4,21212,4332.01,0.23,First Class,Corporate
+20196,2020-11-22,Tanya,South,Chennai,Maharashtra,Bottle,Accessories,4,9368,717.34,0.2,Second Class,Corporate
+20179,2021-02-21,Arjun,East,Kolkata,Tamil Nadu,Oven,Appliances,2,16954,2422.74,0.28,Second Class,Corporate
+20332,2023-01-21,Amit,West,Hyderabad,West Bengal,Book,Books,5,28975,9078.09,0.03,Same Day,Consumer
+20325,2022-09-18,Deepak,North,Ahmedabad,Telangana,Camera,Electronics,3,11571,3968.12,0.29,First Class,Consumer
+20803,2024-02-11,Meera,West,Ahmedabad,Delhi,Charger,Electronics,1,3695,1012.36,0.0,Second Class,Consumer
+20355,2022-02-08,Tanya,East,Kolkata,Gujarat,Sofa,Furniture,4,34228,5093.6,0.21,Second Class,Corporate
+20835,2020-08-14,Arjun,West,Mumbai,Delhi,Charger,Electronics,5,6680,785.22,0.2,Same Day,Consumer
+20057,2020-02-09,Riya,East,Chennai,Maharashtra,Blender,Appliances,5,29830,5737.22,0.1,First Class,Corporate
+20874,2023-02-13,Priya,South,Mumbai,Delhi,Headphones,Electronics,3,15702,2181.53,0.28,First Class,Consumer
+20396,2021-12-11,Vikas,West,Hyderabad,Karnataka,Television,Electronics,5,41800,5903.71,0.19,Second Class,Corporate
+20601,2023-09-20,Arjun,East,Mumbai,Telangana,Television,Electronics,5,42700,10415.48,0.14,First Class,Consumer
+20374,2021-01-07,Karan,West,Hyderabad,Telangana,Bottle,Accessories,2,10154,1823.69,0.3,First Class,Consumer
+20163,2024-06-21,Arjun,North,Bangalore,Tamil Nadu,Smartphone,Electronics,5,19175,1572.61,0.19,Standard Class,Home Office
+20859,2023-08-30,Neha,North,Pune,Maharashtra,Book,Books,2,1728,155.62,0.12,Same Day,Corporate
+20560,2020-12-16,Rahul,West,Ahmedabad,Tamil Nadu,Camera,Electronics,5,25160,2545.7,0.13,Second Class,Home Office
+20372,2024-03-26,Amit,South,Mumbai,West Bengal,Backpack,Accessories,2,11244,3008.87,0.25,First Class,Corporate
+20164,2023-02-08,Priya,East,Kolkata,Maharashtra,Laptop,Electronics,3,11349,3912.51,0.27,Second Class,Home Office
+20210,2020-05-05,Arjun,South,Mumbai,Karnataka,T-shirt,Fashion,5,15620,2781.43,0.14,Standard Class,Home Office
+20676,2021-05-16,Karan,North,Mumbai,Telangana,Television,Electronics,1,686,132.65,0.11,Standard Class,Consumer
+20255,2020-08-23,Deepak,West,Pune,Gujarat,Table,Furniture,5,23330,5754.41,0.01,Standard Class,Home Office
+20525,2022-06-06,Vikas,East,Hyderabad,Telangana,Jeans,Fashion,5,41505,10427.28,0.25,Second Class,Corporate
+20217,2021-03-31,Meera,West,Ahmedabad,Karnataka,Laptop,Electronics,5,44885,3616.1,0.27,First Class,Consumer
+20264,2022-12-17,Priya,South,Chennai,Telangana,Blender,Appliances,1,6085,1679.07,0.22,Same Day,Consumer
+20839,2023-12-01,Tanya,North,Delhi,Delhi,Table,Furniture,5,5735,1190.78,0.03,First Class,Corporate
+20073,2023-06-26,Neha,North,Chennai,Maharashtra,Sofa,Furniture,2,3728,1008.68,0.19,Same Day,Home Office
+20647,2022-12-01,Sneha,North,Pune,Maharashtra,Camera,Electronics,3,4143,368.55,0.2,Standard Class,Home Office
+20426,2022-08-05,Tanya,East,Mumbai,Karnataka,Headphones,Electronics,5,44025,10367.25,0.23,Second Class,Corporate
+20662,2022-03-15,Sneha,South,Delhi,Gujarat,Book,Books,4,28080,1565.47,0.13,Standard Class,Consumer
+20771,2020-02-15,Vikas,West,Bangalore,Karnataka,Jeans,Fashion,4,33556,6545.85,0.0,Second Class,Home Office
+20976,2020-01-16,Neha,East,Bangalore,West Bengal,Television,Electronics,3,4782,1219.55,0.18,First Class,Corporate
+20837,2024-02-15,Deepak,East,Pune,West Bengal,Jeans,Fashion,2,19994,2768.07,0.11,First Class,Home Office
+20716,2020-01-07,Amit,North,Bangalore,Karnataka,Laptop,Electronics,5,2375,586.55,0.27,First Class,Corporate
+20333,2022-10-21,Arjun,North,Ahmedabad,West Bengal,Headphones,Electronics,4,9360,2081.43,0.15,First Class,Consumer
+20534,2024-10-17,Neha,West,Delhi,Maharashtra,Sofa,Furniture,4,24380,1853.73,0.07,Second Class,Corporate
+20534,2020-03-06,Karan,West,Bangalore,Gujarat,Shoes,Fashion,4,7528,977.36,0.01,Standard Class,Consumer
+20243,2023-01-01,Amit,South,Pune,Maharashtra,Watch,Fashion,2,12350,642.84,0.14,Standard Class,Home Office
+20495,2022-08-04,Sneha,South,Pune,Karnataka,Smartphone,Electronics,3,23088,6814.01,0.13,Standard Class,Home Office
+20867,2023-11-13,Amit,North,Hyderabad,Delhi,T-shirt,Fashion,2,17706,4802.39,0.08,Same Day,Corporate
+20029,2023-02-11,Tanya,West,Kolkata,Telangana,Oven,Appliances,2,8464,1183.83,0.14,Standard Class,Home Office
+20899,2021-09-17,Deepak,South,Delhi,Karnataka,Backpack,Accessories,5,35065,1827.34,0.24,Standard Class,Home Office
+20052,2021-06-03,Arjun,East,Hyderabad,Maharashtra,Smartphone,Electronics,4,37672,5774.83,0.02,Standard Class,Corporate
+20204,2022-11-18,Rahul,East,Pune,Delhi,Camera,Electronics,2,9950,1739.74,0.05,Same Day,Home Office
+20642,2024-01-08,Riya,North,Hyderabad,Tamil Nadu,Camera,Electronics,4,28076,7531.19,0.24,Same Day,Corporate
+20058,2023-02-03,Arjun,South,Hyderabad,Gujarat,T-shirt,Fashion,3,11262,1783.5,0.19,First Class,Home Office
+20835,2021-01-31,Rahul,East,Pune,Maharashtra,Backpack,Accessories,3,21423,6797.66,0.24,Same Day,Corporate
+20986,2021-10-19,Karan,East,Pune,Tamil Nadu,Shoes,Fashion,4,23908,5812.42,0.08,Second Class,Corporate
+20892,2021-06-25,Meera,North,Kolkata,Gujarat,Smartphone,Electronics,1,3226,1090.14,0.26,Standard Class,Home Office
+20896,2020-11-23,Rahul,East,Bangalore,Delhi,Table,Furniture,2,12940,2414.84,0.16,Second Class,Consumer
+20801,2020-08-16,Rahul,North,Delhi,Maharashtra,Laptop,Electronics,2,8470,959.05,0.07,Same Day,Consumer
+20133,2021-06-17,Arjun,West,Chennai,Gujarat,Laptop,Electronics,3,18852,3701.97,0.06,Second Class,Corporate
+20929,2024-08-16,Amit,East,Delhi,Karnataka,Television,Electronics,2,3384,1051.37,0.27,Second Class,Corporate
+20842,2024-12-13,Vikas,West,Pune,Maharashtra,Backpack,Accessories,2,8612,2845.99,0.19,First Class,Home Office
+20601,2021-10-14,Karan,North,Chennai,Maharashtra,Camera,Electronics,2,3648,513.34,0.02,Same Day,Corporate
+20051,2023-04-24,Priya,East,Mumbai,Gujarat,Headphones,Electronics,3,23730,5930.65,0.09,Standard Class,Home Office
+20329,2023-10-27,Arjun,West,Pune,Tamil Nadu,Watch,Fashion,3,21282,2912.04,0.14,Standard Class,Home Office
+20722,2024-03-27,Tanya,East,Mumbai,Telangana,Smartphone,Electronics,5,7480,1287.08,0.07,Second Class,Home Office
+20029,2022-07-19,Riya,South,Ahmedabad,Gujarat,Oven,Appliances,4,9296,519.6,0.26,Same Day,Home Office
+20834,2020-06-14,Rahul,North,Kolkata,Telangana,Table,Furniture,2,19420,4758.56,0.22,Same Day,Consumer
+20858,2023-11-17,Riya,North,Pune,West Bengal,Laptop,Electronics,5,23390,7815.67,0.12,Same Day,Consumer
+20680,2021-05-20,Sneha,South,Chennai,Delhi,Headphones,Electronics,4,18504,5317.92,0.06,Second Class,Home Office
+20085,2020-09-23,Karan,North,Kolkata,Karnataka,Headphones,Electronics,3,16071,3395.39,0.17,Second Class,Corporate
+20956,2020-01-31,Neha,West,Chennai,Tamil Nadu,Smartphone,Electronics,1,3086,200.14,0.18,Second Class,Consumer
+20861,2022-11-09,Riya,East,Delhi,Delhi,Chair,Furniture,2,7514,2101.39,0.06,Standard Class,Consumer
+20819,2022-02-11,Rahul,South,Pune,Tamil Nadu,Charger,Electronics,1,5220,1768.02,0.16,Standard Class,Corporate
+20697,2021-11-17,Riya,North,Ahmedabad,Maharashtra,Headphones,Electronics,4,12672,4185.89,0.06,Same Day,Corporate
+20212,2021-05-22,Priya,West,Ahmedabad,Gujarat,Chair,Furniture,4,28640,8763.42,0.26,Second Class,Corporate
+20172,2021-10-10,Meera,South,Ahmedabad,Delhi,Fan,Appliances,2,14870,4262.85,0.07,First Class,Consumer
+20330,2023-07-27,Priya,South,Chennai,Gujarat,Television,Electronics,2,6922,438.53,0.09,First Class,Corporate
+20757,2022-02-20,Amit,South,Chennai,Karnataka,Laptop,Electronics,1,8256,2731.49,0.15,Standard Class,Corporate
+20158,2024-12-15,Karan,North,Delhi,Tamil Nadu,Book,Books,5,14065,2772.12,0.25,First Class,Corporate
+20950,2020-01-17,Rahul,South,Ahmedabad,Tamil Nadu,Backpack,Accessories,3,24297,4760.87,0.1,Same Day,Corporate
+20523,2022-05-08,Deepak,East,Bangalore,Delhi,Television,Electronics,3,5241,391.0,0.09,Standard Class,Corporate
+20288,2022-03-19,Riya,West,Hyderabad,Gujarat,Chair,Furniture,1,9581,699.29,0.2,Second Class,Home Office
+20993,2024-05-09,Amit,South,Pune,Maharashtra,Watch,Fashion,5,43640,13343.49,0.06,Second Class,Home Office
+20543,2023-08-31,Deepak,North,Kolkata,Karnataka,Television,Electronics,4,15252,1659.33,0.28,Second Class,Home Office
+20338,2022-11-26,Deepak,East,Hyderabad,Tamil Nadu,Camera,Electronics,4,26680,9250.96,0.08,Second Class,Corporate
+20860,2022-05-16,Neha,East,Kolkata,Tamil Nadu,Jeans,Fashion,1,9490,1925.69,0.09,Same Day,Home Office
+20677,2021-04-07,Priya,South,Hyderabad,Gujarat,Jeans,Fashion,2,7470,413.9,0.03,Same Day,Corporate
+20059,2024-06-13,Rahul,South,Mumbai,Telangana,Jeans,Fashion,4,34456,9375.94,0.04,Second Class,Home Office
+20118,2024-10-03,Rahul,North,Mumbai,West Bengal,Camera,Electronics,3,28278,1947.57,0.06,First Class,Consumer
+20015,2023-05-19,Riya,West,Delhi,Delhi,Chair,Furniture,4,31788,3963.74,0.11,Same Day,Corporate
+20371,2023-12-13,Karan,South,Hyderabad,Telangana,Fan,Appliances,1,7411,1761.98,0.02,First Class,Home Office
+20718,2020-03-07,Arjun,West,Pune,Telangana,Shoes,Fashion,4,22624,3382.23,0.22,Standard Class,Consumer
+20156,2021-10-15,Arjun,South,Ahmedabad,Gujarat,Television,Electronics,3,17289,1567.9,0.04,Standard Class,Corporate
+20975,2024-10-04,Riya,East,Chennai,Maharashtra,Laptop,Electronics,2,1710,133.53,0.29,Same Day,Home Office
+20907,2024-02-02,Deepak,South,Chennai,Tamil Nadu,Headphones,Electronics,4,16668,3252.05,0.09,Same Day,Corporate
+20456,2024-02-07,Sneha,South,Delhi,Tamil Nadu,Watch,Fashion,1,5724,746.31,0.16,First Class,Home Office
+20738,2022-10-27,Meera,West,Ahmedabad,Delhi,Book,Books,4,39908,4107.81,0.29,Second Class,Corporate
+20007,2024-10-31,Arjun,East,Pune,Gujarat,Watch,Fashion,3,19005,1857.7,0.11,Same Day,Home Office
+20701,2021-03-30,Priya,South,Delhi,Karnataka,T-shirt,Fashion,3,7215,1443.63,0.12,Standard Class,Consumer
+20590,2024-07-01,Tanya,East,Pune,Telangana,Bottle,Accessories,3,16479,2803.06,0.16,First Class,Consumer
+20929,2022-01-21,Deepak,South,Kolkata,West Bengal,Bottle,Accessories,3,18864,6459.56,0.25,Second Class,Corporate
+20936,2023-05-29,Neha,West,Chennai,Telangana,Smartphone,Electronics,1,8237,1530.65,0.25,Same Day,Home Office
+20444,2021-09-14,Riya,West,Ahmedabad,Tamil Nadu,Charger,Electronics,5,19255,5365.53,0.21,Standard Class,Corporate
+20785,2022-06-12,Meera,North,Hyderabad,Karnataka,T-shirt,Fashion,2,9064,841.46,0.12,First Class,Home Office
+20754,2023-07-28,Rahul,East,Delhi,Telangana,Fridge,Appliances,2,3250,179.77,0.21,First Class,Home Office
+20038,2023-03-05,Riya,North,Delhi,Gujarat,Watch,Fashion,3,26517,4248.08,0.16,Same Day,Home Office
+20878,2020-11-03,Riya,North,Chennai,Maharashtra,Blender,Appliances,5,10620,3504.85,0.22,Standard Class,Corporate
+20774,2024-11-18,Rahul,North,Delhi,West Bengal,Sofa,Furniture,1,9791,1545.29,0.02,Second Class,Consumer
+20907,2022-11-01,Deepak,East,Ahmedabad,Delhi,Television,Electronics,1,1769,374.02,0.15,Second Class,Corporate
+20056,2020-04-27,Sneha,South,Chennai,West Bengal,Charger,Electronics,3,9576,2409.38,0.19,First Class,Home Office
+20440,2024-10-26,Deepak,West,Mumbai,Delhi,Book,Books,4,29896,1831.39,0.17,Second Class,Corporate
+20233,2020-12-19,Vikas,South,Bangalore,Karnataka,Shoes,Fashion,1,3011,968.96,0.16,First Class,Consumer
+20923,2024-08-05,Meera,North,Chennai,Gujarat,Oven,Appliances,1,2036,219.5,0.18,Second Class,Home Office
+20085,2021-09-12,Karan,East,Kolkata,Gujarat,Blender,Appliances,2,9516,779.11,0.05,First Class,Consumer
+20999,2022-04-18,Riya,West,Kolkata,Delhi,Headphones,Electronics,5,19600,5879.17,0.13,Same Day,Consumer
+20337,2022-03-20,Arjun,West,Kolkata,Telangana,Blender,Appliances,3,21585,3952.08,0.28,Standard Class,Consumer
+20477,2023-02-11,Sneha,North,Chennai,Delhi,Blender,Appliances,1,1531,484.68,0.1,Second Class,Corporate
+20612,2024-06-13,Arjun,East,Mumbai,Gujarat,Charger,Electronics,1,6522,715.77,0.13,Same Day,Consumer
+20224,2021-06-01,Deepak,South,Chennai,Maharashtra,Charger,Electronics,3,13533,913.09,0.08,Second Class,Consumer
+20656,2023-11-16,Tanya,East,Bangalore,Tamil Nadu,Chair,Furniture,3,2079,653.83,0.15,Same Day,Corporate
+20791,2021-10-10,Deepak,East,Hyderabad,Delhi,Blender,Appliances,3,9405,561.91,0.18,Second Class,Corporate
+20799,2024-07-16,Riya,West,Pune,Telangana,Charger,Electronics,2,2532,198.52,0.01,First Class,Corporate
+20985,2021-12-01,Rahul,East,Mumbai,West Bengal,Backpack,Accessories,4,39732,13690.42,0.21,Second Class,Consumer
+20852,2021-05-26,Priya,West,Mumbai,West Bengal,Sofa,Furniture,4,19352,2485.17,0.28,First Class,Home Office
+20870,2022-04-17,Neha,West,Kolkata,West Bengal,Camera,Electronics,2,1312,310.42,0.16,Same Day,Consumer
+20594,2020-06-29,Rahul,West,Chennai,Maharashtra,Bottle,Accessories,2,6078,1003.37,0.13,Standard Class,Consumer
+20839,2022-05-27,Vikas,South,Delhi,Tamil Nadu,Laptop,Electronics,1,592,187.9,0.12,First Class,Home Office
+20094,2020-11-22,Amit,North,Pune,West Bengal,Book,Books,2,8326,441.2,0.03,First Class,Consumer
+20229,2020-12-09,Amit,East,Mumbai,Gujarat,Charger,Electronics,2,19940,1540.62,0.26,Second Class,Consumer
+20527,2023-08-29,Neha,North,Chennai,Karnataka,Smartphone,Electronics,4,1312,377.54,0.06,Standard Class,Consumer
+20636,2024-04-03,Vikas,North,Mumbai,Gujarat,Backpack,Accessories,5,33360,7218.64,0.27,Same Day,Corporate
+20615,2020-11-21,Neha,North,Bangalore,Telangana,Jeans,Fashion,2,12412,2941.94,0.29,Standard Class,Consumer
+20455,2023-03-22,Amit,North,Chennai,Karnataka,Laptop,Electronics,3,12435,1160.57,0.13,Standard Class,Consumer
+20961,2022-12-11,Rahul,West,Chennai,Maharashtra,Fan,Appliances,1,7161,970.77,0.17,Second Class,Consumer
+20821,2021-10-18,Riya,East,Delhi,Maharashtra,Smartphone,Electronics,5,9995,2954.76,0.04,Second Class,Consumer
+20951,2024-08-29,Sneha,West,Ahmedabad,West Bengal,Laptop,Electronics,4,34560,11834.41,0.25,Same Day,Consumer
+20473,2020-10-01,Amit,North,Chennai,Maharashtra,Smartphone,Electronics,4,14292,3583.67,0.12,First Class,Consumer
+20589,2021-02-14,Tanya,South,Bangalore,Karnataka,Fridge,Appliances,3,15438,3625.96,0.14,First Class,Home Office
+20684,2021-04-21,Neha,North,Mumbai,Maharashtra,Television,Electronics,1,3712,849.74,0.11,First Class,Consumer
+20330,2020-12-28,Arjun,North,Chennai,Tamil Nadu,Backpack,Accessories,4,18444,5248.79,0.06,First Class,Corporate
+20134,2020-11-16,Riya,West,Ahmedabad,Telangana,Fan,Appliances,1,3971,901.62,0.13,Same Day,Home Office
+20253,2022-08-23,Riya,East,Bangalore,Maharashtra,Headphones,Electronics,2,7128,2106.38,0.05,Same Day,Corporate
+20551,2024-01-18,Neha,West,Pune,Gujarat,Shoes,Fashion,4,24880,8183.97,0.28,Same Day,Consumer
+20253,2024-12-06,Arjun,South,Pune,Delhi,Smartphone,Electronics,3,4137,539.05,0.12,Same Day,Corporate
+20562,2022-10-06,Vikas,East,Mumbai,Gujarat,Oven,Appliances,2,19774,3413.45,0.13,Same Day,Corporate
+20934,2021-08-28,Deepak,West,Chennai,Gujarat,Watch,Fashion,3,28740,6371.23,0.13,Second Class,Consumer
+20149,2020-03-28,Sneha,East,Ahmedabad,Karnataka,Charger,Electronics,4,6436,860.77,0.19,Same Day,Consumer
+20863,2020-11-06,Meera,East,Chennai,Tamil Nadu,Sofa,Furniture,2,1442,355.64,0.07,First Class,Home Office
+20849,2024-09-17,Riya,South,Bangalore,Gujarat,Book,Books,2,3216,685.15,0.02,First Class,Corporate
+20554,2023-12-10,Deepak,West,Pune,Gujarat,Bottle,Accessories,1,355,82.72,0.11,Standard Class,Corporate
+20308,2020-03-31,Tanya,West,Delhi,Delhi,Smartphone,Electronics,1,7028,914.69,0.07,Same Day,Consumer
+20150,2020-05-25,Arjun,East,Ahmedabad,Tamil Nadu,T-shirt,Fashion,3,10614,1852.48,0.03,Second Class,Home Office
+20784,2022-06-15,Rahul,North,Delhi,Maharashtra,Watch,Fashion,3,10488,2399.86,0.03,Second Class,Consumer
+20798,2020-08-26,Sneha,North,Kolkata,Maharashtra,Fan,Appliances,3,5901,1471.33,0.21,Standard Class,Corporate
+20176,2021-06-28,Deepak,South,Chennai,Delhi,Bottle,Accessories,1,2887,698.04,0.26,Second Class,Consumer
+20700,2024-07-04,Rahul,East,Delhi,Telangana,Watch,Fashion,1,2667,376.83,0.03,First Class,Consumer
+20887,2023-03-31,Tanya,South,Chennai,Maharashtra,Television,Electronics,1,6238,1438.16,0.02,Second Class,Consumer
+20014,2020-06-12,Sneha,West,Ahmedabad,West Bengal,Oven,Appliances,2,16054,3265.41,0.24,Same Day,Corporate
+20104,2022-01-11,Deepak,North,Pune,Karnataka,Watch,Fashion,5,29705,1973.11,0.11,First Class,Consumer
+20188,2023-09-02,Sneha,South,Hyderabad,Karnataka,T-shirt,Fashion,1,6823,2105.33,0.17,First Class,Consumer
+20065,2020-11-28,Amit,North,Mumbai,Tamil Nadu,Watch,Fashion,1,839,283.99,0.09,First Class,Consumer
+20910,2024-08-01,Arjun,South,Ahmedabad,Tamil Nadu,T-shirt,Fashion,3,20280,3649.9,0.24,First Class,Consumer
+20717,2020-11-10,Priya,South,Delhi,West Bengal,Watch,Fashion,1,3391,991.06,0.15,Standard Class,Corporate
+20265,2022-09-08,Vikas,South,Hyderabad,Maharashtra,Charger,Electronics,2,2202,754.35,0.29,Second Class,Corporate
+20544,2023-02-03,Arjun,South,Chennai,Maharashtra,Laptop,Electronics,5,4415,1454.58,0.03,Standard Class,Corporate
+20147,2023-04-04,Neha,South,Mumbai,Maharashtra,Jeans,Fashion,5,43950,14960.87,0.27,Standard Class,Corporate
+20926,2023-05-09,Rahul,West,Pune,Delhi,T-shirt,Fashion,4,31648,7269.65,0.02,Second Class,Home Office
+20275,2021-05-23,Rahul,South,Ahmedabad,Telangana,Television,Electronics,5,21735,2881.13,0.27,Same Day,Home Office
+20345,2021-06-14,Deepak,West,Delhi,Karnataka,T-shirt,Fashion,1,8463,1193.36,0.12,Second Class,Corporate
+20589,2023-12-13,Tanya,South,Ahmedabad,Telangana,Sofa,Furniture,5,13815,2100.8,0.26,Standard Class,Corporate
+20680,2021-01-12,Arjun,East,Kolkata,Telangana,Watch,Fashion,1,2324,168.58,0.16,Second Class,Corporate
+20550,2021-01-30,Amit,West,Pune,Telangana,Blender,Appliances,3,26823,6646.93,0.15,Standard Class,Corporate
+20418,2023-08-26,Deepak,East,Kolkata,Karnataka,Table,Furniture,2,19450,3433.55,0.07,First Class,Home Office
+20854,2024-01-28,Sneha,West,Kolkata,Tamil Nadu,Television,Electronics,3,8604,1677.09,0.12,Standard Class,Home Office
+20687,2023-02-07,Neha,North,Bangalore,Karnataka,Chair,Furniture,4,12124,2844.34,0.12,Same Day,Home Office
+20508,2022-04-15,Neha,South,Mumbai,Tamil Nadu,Sofa,Furniture,5,17220,2835.64,0.08,Same Day,Corporate
+20551,2024-02-08,Deepak,South,Hyderabad,Telangana,Bottle,Accessories,3,21972,4230.74,0.1,Standard Class,Corporate
+20717,2024-05-12,Tanya,South,Chennai,Telangana,Laptop,Electronics,5,28935,1854.42,0.17,Standard Class,Corporate
+20763,2023-08-19,Priya,West,Kolkata,Tamil Nadu,Television,Electronics,3,24669,1285.97,0.25,Same Day,Corporate
+20177,2020-03-03,Neha,East,Bangalore,Telangana,Television,Electronics,3,23139,3931.68,0.29,First Class,Corporate
+20791,2024-10-07,Amit,South,Bangalore,West Bengal,Sofa,Furniture,4,4180,963.52,0.02,Same Day,Consumer
+20157,2022-01-04,Tanya,South,Delhi,Gujarat,Chair,Furniture,1,9153,1931.12,0.28,Second Class,Consumer
+20133,2022-12-14,Tanya,West,Mumbai,Gujarat,Table,Furniture,5,31010,4795.03,0.21,Second Class,Corporate
+20361,2020-12-03,Rahul,North,Chennai,Gujarat,T-shirt,Fashion,1,5906,1396.49,0.01,First Class,Home Office
+20083,2020-02-26,Meera,East,Delhi,Maharashtra,Oven,Appliances,3,7374,369.23,0.07,Same Day,Consumer
+20041,2023-04-05,Deepak,South,Bangalore,Delhi,Smartphone,Electronics,3,19356,6208.68,0.02,Same Day,Consumer
+20402,2023-04-29,Rahul,West,Delhi,Karnataka,Camera,Electronics,5,30495,5200.74,0.02,Same Day,Corporate
+20755,2024-07-21,Tanya,South,Hyderabad,Karnataka,T-shirt,Fashion,4,18172,4376.55,0.14,First Class,Corporate
+20229,2024-05-17,Sneha,East,Delhi,West Bengal,Charger,Electronics,5,31060,6265.79,0.01,Second Class,Corporate
+20628,2023-10-07,Amit,East,Kolkata,Gujarat,Fridge,Appliances,1,1532,300.46,0.26,Standard Class,Consumer
+20521,2021-09-21,Priya,West,Pune,Maharashtra,Blender,Appliances,1,1709,212.07,0.27,Second Class,Consumer
+20943,2023-04-10,Meera,West,Hyderabad,Gujarat,Oven,Appliances,3,4818,1577.16,0.16,Same Day,Home Office
+20373,2020-12-27,Amit,West,Kolkata,Tamil Nadu,Shoes,Fashion,1,9707,2713.42,0.13,Same Day,Corporate
+20600,2020-01-11,Neha,North,Pune,Karnataka,Oven,Appliances,2,15528,5409.62,0.14,Same Day,Consumer
+20650,2023-06-06,Priya,South,Hyderabad,Karnataka,Oven,Appliances,1,3953,208.52,0.06,Same Day,Home Office
+20335,2022-11-20,Vikas,East,Kolkata,Maharashtra,Camera,Electronics,2,15978,5024.21,0.12,Second Class,Consumer
+20299,2024-01-26,Karan,West,Pune,Gujarat,Chair,Furniture,5,33875,9868.2,0.02,Second Class,Consumer
+20109,2020-11-12,Meera,North,Hyderabad,Maharashtra,Charger,Electronics,3,14511,1084.41,0.23,Second Class,Consumer
+20875,2021-04-10,Vikas,East,Delhi,Tamil Nadu,Fan,Appliances,2,14562,3031.0,0.23,Second Class,Corporate
+20777,2024-12-27,Vikas,West,Mumbai,Delhi,Camera,Electronics,5,25465,8498.51,0.04,Same Day,Home Office
+20163,2024-12-11,Meera,North,Hyderabad,Maharashtra,Backpack,Accessories,5,3260,462.46,0.2,Same Day,Home Office
+20192,2021-08-13,Rahul,East,Kolkata,Delhi,Jeans,Fashion,4,29248,7929.69,0.02,Second Class,Consumer
+20992,2024-07-16,Karan,North,Kolkata,Maharashtra,Backpack,Accessories,4,8716,2802.09,0.25,First Class,Home Office
+20211,2023-07-27,Deepak,North,Bangalore,Maharashtra,Sofa,Furniture,4,37664,4522.97,0.12,Standard Class,Home Office
+20409,2022-09-17,Rahul,North,Mumbai,Telangana,Oven,Appliances,2,6920,1388.02,0.18,First Class,Home Office
+20257,2023-04-27,Vikas,South,Pune,Maharashtra,Headphones,Electronics,4,33144,6285.82,0.08,First Class,Home Office
+20614,2023-09-19,Amit,West,Mumbai,Gujarat,Camera,Electronics,3,15579,3072.31,0.13,First Class,Home Office
+20472,2024-02-14,Tanya,North,Delhi,Delhi,Blender,Appliances,5,2975,911.18,0.23,First Class,Home Office
+20244,2020-11-22,Neha,South,Bangalore,Tamil Nadu,Oven,Appliances,1,8058,994.48,0.04,Standard Class,Corporate
+20073,2024-11-04,Sneha,East,Hyderabad,Gujarat,Television,Electronics,2,6762,1441.41,0.1,Same Day,Consumer
+20782,2021-03-17,Tanya,West,Kolkata,Tamil Nadu,Oven,Appliances,2,3718,1055.41,0.01,Same Day,Corporate
+20998,2022-01-03,Neha,South,Hyderabad,Telangana,Book,Books,2,2776,815.38,0.26,Standard Class,Home Office
+20395,2023-01-02,Neha,East,Hyderabad,Delhi,Television,Electronics,4,11880,4097.48,0.28,Standard Class,Home Office
+20630,2020-07-16,Riya,South,Bangalore,Maharashtra,Watch,Fashion,3,28119,5184.75,0.13,Second Class,Consumer
+20064,2022-08-24,Deepak,North,Pune,Delhi,Blender,Appliances,2,9786,2426.55,0.13,Standard Class,Consumer
+20038,2020-01-25,Deepak,West,Ahmedabad,Delhi,Sofa,Furniture,3,29796,6204.98,0.25,Standard Class,Consumer
+20431,2020-02-25,Amit,West,Mumbai,Maharashtra,Charger,Electronics,5,10255,752.7,0.03,Standard Class,Consumer
+20643,2020-02-18,Rahul,West,Chennai,Delhi,Jeans,Fashion,5,24145,5838.65,0.04,Same Day,Corporate
+20561,2022-04-23,Arjun,North,Hyderabad,Maharashtra,Chair,Furniture,2,14172,3743.82,0.14,Standard Class,Corporate
+20271,2021-02-20,Neha,South,Bangalore,Delhi,Chair,Furniture,5,20375,1258.92,0.2,Standard Class,Consumer
+20382,2021-08-23,Arjun,West,Ahmedabad,Delhi,Oven,Appliances,3,7224,1960.92,0.06,Second Class,Home Office
+20237,2024-10-28,Karan,West,Bangalore,Karnataka,Fridge,Appliances,5,41195,5378.01,0.2,First Class,Home Office
+20950,2024-07-12,Amit,West,Kolkata,West Bengal,Sofa,Furniture,3,22107,1920.58,0.19,Standard Class,Home Office
+20549,2022-03-24,Amit,South,Delhi,Tamil Nadu,Headphones,Electronics,4,6636,1415.71,0.05,Same Day,Home Office
+20666,2021-10-23,Vikas,North,Chennai,West Bengal,Laptop,Electronics,4,39744,4306.83,0.22,Standard Class,Consumer
+20189,2021-04-08,Neha,East,Ahmedabad,West Bengal,Smartphone,Electronics,2,742,59.25,0.18,Standard Class,Consumer
+20670,2022-10-08,Rahul,East,Mumbai,Maharashtra,Book,Books,1,3326,596.33,0.05,Second Class,Consumer
+20242,2023-05-11,Amit,West,Hyderabad,Telangana,Fridge,Appliances,3,5220,806.91,0.22,First Class,Consumer
+20047,2024-10-07,Arjun,South,Delhi,Gujarat,Jeans,Fashion,3,18804,5989.27,0.21,Standard Class,Consumer
+20780,2020-01-23,Riya,North,Delhi,Gujarat,Watch,Fashion,3,28461,5804.65,0.15,Same Day,Home Office
+20090,2020-11-06,Arjun,North,Delhi,Karnataka,Laptop,Electronics,5,42230,8259.2,0.16,Same Day,Home Office
+20672,2022-02-16,Meera,West,Pune,Delhi,Oven,Appliances,5,17195,2873.51,0.12,First Class,Consumer
+20620,2021-08-08,Deepak,East,Kolkata,Tamil Nadu,Fan,Appliances,1,2638,277.05,0.13,First Class,Consumer
+20467,2020-10-11,Tanya,South,Kolkata,Delhi,Laptop,Electronics,4,18336,5932.55,0.23,Standard Class,Corporate
+20918,2020-06-24,Rahul,East,Hyderabad,West Bengal,Camera,Electronics,4,30784,2613.01,0.16,Standard Class,Corporate
+20541,2024-11-17,Arjun,East,Hyderabad,Karnataka,Headphones,Electronics,1,3518,1227.39,0.25,Standard Class,Consumer
+20144,2020-11-28,Riya,North,Hyderabad,Gujarat,Television,Electronics,4,17800,5338.25,0.21,Standard Class,Consumer
+20080,2022-11-20,Tanya,North,Kolkata,West Bengal,Blender,Appliances,1,7160,2192.1,0.04,Standard Class,Home Office
+20882,2021-07-17,Priya,North,Ahmedabad,Tamil Nadu,Television,Electronics,4,19448,3868.15,0.12,Standard Class,Corporate
+20120,2020-03-07,Arjun,East,Delhi,Tamil Nadu,Book,Books,5,35530,7846.61,0.26,Same Day,Consumer
+20113,2024-07-18,Meera,South,Mumbai,Delhi,Oven,Appliances,4,4916,1678.59,0.08,Second Class,Corporate
+20772,2022-11-28,Riya,South,Pune,Maharashtra,Laptop,Electronics,1,6643,2000.06,0.3,First Class,Home Office
+20062,2022-03-09,Sneha,North,Mumbai,West Bengal,T-shirt,Fashion,4,20912,5982.77,0.02,First Class,Corporate
+20528,2024-02-04,Priya,South,Pune,Gujarat,Fridge,Appliances,5,44390,11852.95,0.08,Standard Class,Consumer
+20021,2024-08-09,Tanya,North,Delhi,Delhi,Oven,Appliances,3,14436,4361.59,0.21,First Class,Corporate
+20473,2022-09-19,Priya,South,Bangalore,Telangana,Bottle,Accessories,4,15444,4239.72,0.29,Standard Class,Consumer
+20084,2021-01-21,Vikas,North,Delhi,Delhi,Bottle,Accessories,2,9670,2403.87,0.14,First Class,Consumer
+20411,2020-06-21,Sneha,South,Bangalore,Telangana,Fridge,Appliances,3,12516,1724.72,0.12,First Class,Consumer
+20482,2022-11-08,Sneha,East,Ahmedabad,West Bengal,Chair,Furniture,1,3963,208.08,0.05,First Class,Consumer
+20436,2020-04-06,Rahul,North,Kolkata,Delhi,Camera,Electronics,1,756,197.84,0.15,Standard Class,Corporate
+20513,2020-07-22,Riya,South,Chennai,West Bengal,Camera,Electronics,5,44670,13626.65,0.3,Standard Class,Home Office
+20025,2021-05-20,Karan,North,Delhi,Gujarat,Table,Furniture,3,11127,3181.85,0.09,First Class,Corporate
+20784,2021-05-09,Riya,East,Ahmedabad,Karnataka,Camera,Electronics,3,8352,865.7,0.27,Second Class,Corporate
+20541,2020-05-23,Arjun,West,Delhi,West Bengal,Television,Electronics,5,40215,13612.35,0.06,Same Day,Consumer
+20739,2020-02-02,Tanya,North,Ahmedabad,Maharashtra,Fan,Appliances,4,19536,3356.93,0.03,First Class,Consumer
+20558,2020-03-07,Karan,East,Hyderabad,Maharashtra,Fridge,Appliances,3,10182,3325.59,0.03,Standard Class,Home Office
+20473,2024-12-12,Tanya,North,Kolkata,Telangana,Smartphone,Electronics,5,19915,3884.55,0.21,Same Day,Corporate
+20171,2024-07-29,Neha,South,Pune,Gujarat,Laptop,Electronics,1,6703,556.7,0.22,Standard Class,Home Office
+20728,2024-03-14,Karan,South,Mumbai,Tamil Nadu,Watch,Fashion,1,4937,776.36,0.08,Same Day,Consumer
+20207,2020-11-28,Meera,North,Chennai,Delhi,Jeans,Fashion,2,18758,3822.53,0.28,Standard Class,Consumer
+20983,2024-02-20,Rahul,South,Kolkata,West Bengal,Headphones,Electronics,4,10040,2175.24,0.22,Second Class,Home Office
+20497,2022-04-07,Riya,West,Kolkata,Gujarat,Table,Furniture,1,9928,711.91,0.26,First Class,Home Office
+20993,2022-01-16,Rahul,North,Hyderabad,West Bengal,Sofa,Furniture,2,18422,2822.14,0.08,Standard Class,Consumer
+20599,2022-02-20,Meera,North,Chennai,Tamil Nadu,Shoes,Fashion,4,20328,1056.19,0.14,First Class,Home Office
+20718,2021-05-17,Arjun,South,Chennai,Tamil Nadu,Fridge,Appliances,2,1846,122.95,0.04,Second Class,Corporate
+20845,2023-08-22,Arjun,West,Pune,West Bengal,Bottle,Accessories,1,3667,303.96,0.17,Second Class,Corporate
+20721,2023-04-21,Rahul,South,Ahmedabad,Gujarat,Jeans,Fashion,4,37068,3851.13,0.29,Standard Class,Corporate
+20838,2024-11-15,Karan,East,Ahmedabad,West Bengal,Bottle,Accessories,4,5580,410.74,0.18,Standard Class,Corporate
+20800,2021-03-09,Tanya,West,Delhi,Karnataka,Smartphone,Electronics,1,5279,1438.48,0.09,Standard Class,Consumer
+20745,2023-07-02,Arjun,South,Bangalore,Gujarat,Backpack,Accessories,1,1640,411.48,0.29,Second Class,Corporate
+20688,2021-03-31,Vikas,North,Chennai,Gujarat,Jeans,Fashion,4,12232,2904.0,0.08,First Class,Home Office
+20087,2022-04-09,Riya,North,Pune,Telangana,Laptop,Electronics,5,45255,14803.95,0.07,Second Class,Home Office
+20675,2021-11-15,Deepak,East,Kolkata,Telangana,Smartphone,Electronics,4,10512,2539.03,0.09,First Class,Corporate
+20086,2023-11-21,Karan,East,Bangalore,Delhi,Laptop,Electronics,3,19002,2452.81,0.29,Second Class,Home Office
+20739,2022-03-06,Riya,North,Mumbai,Tamil Nadu,Backpack,Accessories,1,7426,958.27,0.01,Same Day,Consumer
+20175,2020-11-20,Karan,West,Mumbai,Delhi,Fan,Appliances,4,1816,102.19,0.07,Standard Class,Home Office
+20217,2024-05-10,Karan,East,Pune,Maharashtra,Smartphone,Electronics,1,9750,2145.41,0.11,Standard Class,Corporate
+20566,2023-06-22,Rahul,East,Bangalore,Telangana,Charger,Electronics,3,7842,1182.45,0.17,Standard Class,Corporate
+20166,2022-10-09,Amit,South,Kolkata,Maharashtra,Headphones,Electronics,5,17285,4451.91,0.11,Second Class,Consumer
+20525,2024-08-25,Neha,North,Bangalore,Delhi,Smartphone,Electronics,5,21335,2529.08,0.26,Second Class,Home Office
+20990,2020-10-24,Tanya,North,Ahmedabad,Delhi,Book,Books,4,31736,6305.82,0.13,Same Day,Home Office
+20491,2024-06-30,Vikas,South,Mumbai,Karnataka,Blender,Appliances,2,1454,248.17,0.11,Same Day,Corporate
+20639,2024-01-20,Vikas,South,Chennai,Maharashtra,Fan,Appliances,3,12054,4002.58,0.27,Second Class,Home Office
+20368,2023-12-30,Riya,East,Chennai,Telangana,Shoes,Fashion,1,3249,215.13,0.14,Standard Class,Home Office
+20931,2021-02-03,Neha,East,Bangalore,Tamil Nadu,Fan,Appliances,5,26375,5838.48,0.25,First Class,Home Office
+20502,2021-06-30,Arjun,East,Kolkata,Gujarat,Book,Books,5,11475,1460.87,0.27,Second Class,Consumer
+20983,2020-11-28,Arjun,West,Kolkata,Telangana,Laptop,Electronics,3,6552,583.82,0.24,First Class,Home Office
+20139,2020-07-13,Amit,East,Chennai,Karnataka,Book,Books,1,4956,611.77,0.2,First Class,Consumer
+20870,2024-02-13,Vikas,North,Pune,Delhi,Charger,Electronics,4,30072,4337.37,0.19,Second Class,Home Office
+20468,2023-03-11,Sneha,East,Chennai,Tamil Nadu,Watch,Fashion,5,47555,7188.44,0.08,First Class,Home Office
+20445,2022-08-23,Meera,South,Bangalore,Telangana,Blender,Appliances,2,8616,854.5,0.11,Same Day,Consumer
+20970,2023-08-27,Rahul,East,Hyderabad,Gujarat,Smartphone,Electronics,4,3832,264.33,0.18,Same Day,Corporate
+20208,2021-03-25,Arjun,West,Ahmedabad,Tamil Nadu,Book,Books,3,27759,7744.55,0.18,Same Day,Home Office
+20812,2020-05-12,Vikas,East,Mumbai,West Bengal,Bottle,Accessories,2,3232,1114.38,0.19,Second Class,Home Office
+20775,2023-11-05,Amit,North,Kolkata,West Bengal,Camera,Electronics,5,2980,803.14,0.21,First Class,Consumer
+20411,2020-01-08,Sneha,East,Delhi,Telangana,T-shirt,Fashion,5,38290,11551.76,0.09,Same Day,Consumer
+20470,2021-10-22,Arjun,North,Mumbai,Karnataka,Jeans,Fashion,2,16808,5686.74,0.19,First Class,Home Office
+20665,2021-10-31,Priya,South,Ahmedabad,Gujarat,T-shirt,Fashion,3,19992,6943.56,0.03,First Class,Consumer
+20923,2021-10-03,Tanya,West,Mumbai,Telangana,Fridge,Appliances,4,6256,1507.75,0.07,Second Class,Home Office
+20543,2024-03-05,Deepak,North,Delhi,Karnataka,Charger,Electronics,5,28265,5634.93,0.25,Same Day,Corporate
+20883,2020-06-10,Karan,South,Delhi,Tamil Nadu,Chair,Furniture,5,37690,10999.04,0.11,Second Class,Home Office
+20473,2022-08-16,Karan,North,Delhi,Maharashtra,Fridge,Appliances,3,1143,149.41,0.24,First Class,Home Office
+20114,2020-01-26,Rahul,East,Delhi,Delhi,Laptop,Electronics,5,27270,5221.73,0.21,Second Class,Consumer
+20032,2022-11-01,Arjun,East,Bangalore,Karnataka,Laptop,Electronics,3,18771,1970.19,0.19,Second Class,Home Office
+20516,2024-07-19,Neha,East,Mumbai,West Bengal,Watch,Fashion,1,4973,966.44,0.1,Standard Class,Corporate
+20802,2022-07-17,Deepak,South,Pune,Maharashtra,Smartphone,Electronics,5,23570,7070.56,0.07,Second Class,Home Office
+20093,2024-09-16,Vikas,North,Pune,Gujarat,Television,Electronics,4,24180,1974.4,0.2,Same Day,Home Office
+20326,2020-03-14,Sneha,East,Bangalore,Maharashtra,Sofa,Furniture,4,32932,7189.12,0.04,Same Day,Consumer
+20637,2024-09-19,Amit,South,Kolkata,Delhi,Chair,Furniture,3,1893,315.48,0.01,Same Day,Home Office
+20228,2022-04-13,Deepak,West,Kolkata,Maharashtra,Fan,Appliances,2,5750,1644.18,0.01,Second Class,Corporate
+20167,2024-05-27,Arjun,North,Bangalore,Delhi,Bottle,Accessories,1,6555,898.01,0.19,First Class,Home Office
+20959,2022-09-18,Neha,West,Ahmedabad,Telangana,Shoes,Fashion,3,26652,5867.13,0.17,Second Class,Consumer
+20133,2021-03-18,Sneha,East,Mumbai,Telangana,Camera,Electronics,5,8670,1182.27,0.04,Second Class,Consumer
+20318,2023-02-10,Karan,West,Ahmedabad,West Bengal,Backpack,Accessories,3,15678,2504.97,0.07,Second Class,Consumer
+20560,2024-12-28,Meera,South,Delhi,Gujarat,Bottle,Accessories,4,19908,3398.06,0.23,Standard Class,Home Office
+20881,2023-08-13,Amit,East,Pune,Karnataka,Oven,Appliances,3,2226,524.9,0.2,Second Class,Home Office
+20953,2024-07-27,Amit,West,Delhi,West Bengal,Table,Furniture,1,862,77.78,0.02,First Class,Home Office
+20083,2023-01-21,Karan,East,Bangalore,Telangana,T-shirt,Fashion,4,20108,2459.19,0.28,Second Class,Corporate
+20273,2023-08-22,Karan,West,Ahmedabad,West Bengal,Fan,Appliances,2,6200,962.37,0.23,Standard Class,Consumer
+20480,2022-06-20,Neha,West,Delhi,Gujarat,Headphones,Electronics,1,1488,242.81,0.2,Second Class,Consumer
+20217,2022-11-23,Vikas,West,Bangalore,Maharashtra,T-shirt,Fashion,4,33164,10876.61,0.27,Same Day,Consumer
+20112,2021-12-23,Deepak,East,Delhi,Maharashtra,Oven,Appliances,4,3476,1012.53,0.05,Standard Class,Home Office
+20739,2021-06-20,Deepak,North,Chennai,Telangana,Oven,Appliances,3,26643,1368.15,0.09,First Class,Consumer
+20864,2022-03-10,Karan,North,Hyderabad,Telangana,Watch,Fashion,4,5636,539.91,0.21,Second Class,Corporate
+20399,2024-09-28,Rahul,South,Mumbai,Karnataka,Watch,Fashion,5,44880,2790.58,0.12,First Class,Corporate
+20420,2022-08-17,Deepak,West,Ahmedabad,Gujarat,Blender,Appliances,1,1451,164.04,0.15,First Class,Corporate
+20620,2020-07-29,Deepak,South,Hyderabad,West Bengal,Book,Books,4,13052,2532.58,0.24,Same Day,Corporate
+20967,2022-11-18,Deepak,North,Delhi,Maharashtra,Camera,Electronics,4,36716,3637.22,0.01,Standard Class,Consumer
+20941,2022-09-10,Tanya,South,Mumbai,Tamil Nadu,Book,Books,3,24630,7219.28,0.24,Standard Class,Consumer
+20908,2020-09-11,Karan,East,Chennai,Telangana,T-shirt,Fashion,4,36668,2613.51,0.06,Standard Class,Corporate
+20898,2023-04-16,Tanya,West,Hyderabad,Telangana,Sofa,Furniture,2,17256,3522.14,0.07,Standard Class,Consumer
+20243,2024-12-15,Rahul,East,Delhi,West Bengal,Headphones,Electronics,2,8394,1943.47,0.12,First Class,Home Office
+20570,2024-02-24,Neha,North,Kolkata,Tamil Nadu,Chair,Furniture,1,4777,727.67,0.16,Standard Class,Corporate
+20336,2021-10-25,Arjun,West,Ahmedabad,West Bengal,Shoes,Fashion,5,39325,3461.14,0.17,Standard Class,Home Office
+20529,2020-12-06,Tanya,South,Bangalore,Gujarat,Jeans,Fashion,4,11244,2140.04,0.29,First Class,Home Office
+20418,2024-07-01,Karan,East,Kolkata,Delhi,Fridge,Appliances,3,22749,6955.09,0.16,Same Day,Corporate
+20181,2020-06-05,Riya,North,Bangalore,Delhi,Blender,Appliances,4,3564,662.94,0.16,Second Class,Corporate
+20398,2021-08-05,Riya,South,Mumbai,Maharashtra,Bottle,Accessories,1,3338,564.35,0.22,First Class,Corporate
+20651,2024-12-23,Meera,South,Pune,Karnataka,Headphones,Electronics,3,8631,1270.43,0.18,First Class,Consumer
+20022,2020-06-20,Arjun,East,Bangalore,West Bengal,Sofa,Furniture,1,1687,130.0,0.18,Second Class,Home Office
+20777,2023-02-09,Neha,East,Chennai,Tamil Nadu,Shoes,Fashion,3,22089,6453.6,0.11,Second Class,Corporate
+20986,2020-01-14,Vikas,West,Kolkata,Karnataka,Chair,Furniture,5,35040,2450.77,0.0,First Class,Consumer
+20815,2021-06-30,Vikas,West,Hyderabad,Karnataka,Chair,Furniture,4,12460,1243.46,0.22,Same Day,Consumer
+20608,2020-01-26,Riya,East,Hyderabad,West Bengal,Shoes,Fashion,3,6642,2296.52,0.09,Standard Class,Consumer
+20949,2020-01-08,Tanya,West,Pune,Gujarat,Table,Furniture,4,24548,2640.16,0.1,First Class,Home Office
+20318,2024-12-23,Karan,North,Ahmedabad,Maharashtra,Sofa,Furniture,1,7511,1928.32,0.17,Same Day,Corporate
+20135,2024-10-08,Meera,West,Delhi,Tamil Nadu,Television,Electronics,3,5340,1727.82,0.22,Second Class,Home Office
+20215,2024-09-04,Meera,West,Kolkata,Telangana,Television,Electronics,3,7776,978.21,0.13,First Class,Home Office
+20311,2022-09-19,Arjun,South,Delhi,Maharashtra,Fan,Appliances,4,33120,10676.06,0.22,Second Class,Corporate
+20999,2020-10-29,Riya,West,Chennai,Gujarat,Sofa,Furniture,5,16835,5527.56,0.28,Standard Class,Home Office
+20712,2024-02-17,Tanya,North,Hyderabad,West Bengal,Fridge,Appliances,2,7918,601.19,0.24,Standard Class,Consumer
+20257,2024-11-14,Priya,South,Ahmedabad,Maharashtra,Shoes,Fashion,5,49820,7215.5,0.13,First Class,Home Office
+20246,2022-01-02,Neha,North,Kolkata,Maharashtra,Backpack,Accessories,5,5420,1240.39,0.27,Standard Class,Consumer
+20651,2022-08-09,Vikas,North,Chennai,West Bengal,T-shirt,Fashion,5,29895,5207.42,0.15,First Class,Home Office
+20844,2021-07-27,Vikas,North,Ahmedabad,Delhi,Watch,Fashion,2,12854,3332.96,0.16,Standard Class,Home Office
+20999,2021-10-16,Karan,South,Bangalore,Tamil Nadu,Headphones,Electronics,1,4950,1416.71,0.16,First Class,Consumer
+20596,2021-06-29,Arjun,West,Hyderabad,Karnataka,Laptop,Electronics,4,28608,2525.31,0.26,Same Day,Home Office
+20655,2022-07-30,Vikas,North,Chennai,Gujarat,Charger,Electronics,5,49715,16943.29,0.29,First Class,Corporate
+20014,2020-10-24,Arjun,West,Pune,Delhi,Blender,Appliances,2,14036,1915.36,0.08,Standard Class,Consumer
+20181,2024-05-11,Meera,East,Pune,Delhi,Chair,Furniture,3,22530,4790.1,0.28,Standard Class,Consumer
+20732,2020-12-01,Tanya,South,Bangalore,Tamil Nadu,Shoes,Fashion,2,12850,3961.9,0.02,First Class,Consumer
+20393,2020-07-30,Arjun,East,Pune,Maharashtra,Fan,Appliances,3,23388,1912.55,0.01,Standard Class,Home Office
+20105,2024-06-28,Karan,North,Kolkata,Tamil Nadu,Oven,Appliances,3,3066,286.7,0.22,Same Day,Home Office
+20763,2020-11-26,Karan,South,Pune,Telangana,Laptop,Electronics,1,5793,989.52,0.0,Standard Class,Home Office
+20266,2020-11-23,Arjun,East,Chennai,Tamil Nadu,Oven,Appliances,3,13500,2651.55,0.05,Standard Class,Home Office
+20641,2024-11-28,Deepak,West,Kolkata,Karnataka,Bottle,Accessories,4,25880,5265.14,0.19,Standard Class,Consumer
+20441,2022-02-09,Rahul,East,Ahmedabad,West Bengal,Fan,Appliances,4,23964,5543.99,0.08,Same Day,Corporate
+20246,2020-04-20,Deepak,East,Pune,West Bengal,Laptop,Electronics,5,21885,6412.42,0.17,First Class,Corporate
+20111,2020-03-30,Neha,West,Pune,Delhi,Sofa,Furniture,5,27160,5867.84,0.15,Same Day,Consumer
+20572,2020-09-06,Arjun,North,Chennai,Karnataka,Jeans,Fashion,4,8824,2984.44,0.15,Second Class,Corporate
+20448,2021-04-18,Deepak,West,Hyderabad,Maharashtra,Sofa,Furniture,2,2716,929.24,0.0,Standard Class,Home Office
+20963,2024-08-28,Vikas,East,Pune,Gujarat,Fan,Appliances,3,5589,650.13,0.15,First Class,Corporate
+20976,2024-04-15,Deepak,West,Pune,Delhi,Bottle,Accessories,4,23616,7588.3,0.3,First Class,Home Office
+20950,2023-08-22,Arjun,West,Mumbai,Delhi,Bottle,Accessories,4,32004,2434.92,0.07,Second Class,Consumer
+20908,2023-02-27,Neha,West,Delhi,Maharashtra,T-shirt,Fashion,1,2802,635.61,0.14,First Class,Consumer
+20598,2022-10-20,Riya,West,Chennai,Maharashtra,Laptop,Electronics,4,37856,10342.82,0.15,Second Class,Home Office
+20364,2020-02-29,Priya,West,Chennai,Delhi,Blender,Appliances,5,26345,8008.05,0.02,Same Day,Consumer
+20292,2022-04-28,Meera,North,Bangalore,Maharashtra,Smartphone,Electronics,4,8240,2742.11,0.25,First Class,Consumer
+20188,2022-06-25,Neha,West,Mumbai,Delhi,Table,Furniture,2,7654,1425.56,0.12,First Class,Corporate
+20043,2021-06-03,Karan,East,Bangalore,Delhi,Oven,Appliances,4,4408,774.17,0.13,Second Class,Consumer
+20308,2022-07-20,Rahul,North,Hyderabad,Karnataka,Watch,Fashion,3,9324,748.8,0.18,Standard Class,Corporate
+20475,2022-12-13,Deepak,South,Chennai,Telangana,Headphones,Electronics,4,36492,9921.53,0.13,First Class,Home Office
+20348,2023-03-28,Tanya,North,Delhi,Gujarat,Chair,Furniture,2,14210,1009.41,0.01,Standard Class,Corporate
+20213,2021-04-23,Vikas,South,Hyderabad,Karnataka,Charger,Electronics,5,46745,3894.75,0.08,Second Class,Home Office
+20116,2021-06-21,Karan,North,Kolkata,Maharashtra,Sofa,Furniture,5,5570,1066.8,0.15,First Class,Home Office
+20261,2024-03-31,Amit,South,Delhi,Maharashtra,Backpack,Accessories,2,19542,3540.71,0.12,Second Class,Home Office
+20093,2023-05-29,Rahul,South,Chennai,Delhi,Charger,Electronics,4,20040,6966.0,0.21,Same Day,Corporate
+20808,2022-11-23,Arjun,North,Bangalore,Karnataka,Blender,Appliances,5,17850,3044.95,0.25,Second Class,Consumer
+20879,2023-12-14,Vikas,South,Hyderabad,Maharashtra,Blender,Appliances,3,5238,393.7,0.3,Same Day,Home Office
+20848,2023-05-11,Riya,East,Ahmedabad,Gujarat,Laptop,Electronics,5,25455,6774.21,0.15,First Class,Consumer
+20845,2021-01-07,Meera,South,Ahmedabad,Karnataka,Television,Electronics,1,8095,1130.74,0.17,Standard Class,Consumer
+20402,2024-03-20,Rahul,South,Chennai,Gujarat,T-shirt,Fashion,2,9298,1689.53,0.01,Standard Class,Consumer
+20657,2023-07-12,Meera,South,Mumbai,Telangana,Charger,Electronics,5,39570,8795.94,0.19,First Class,Home Office
+20886,2024-03-11,Neha,East,Pune,Tamil Nadu,Fridge,Appliances,5,5695,1251.0,0.19,First Class,Corporate
+20844,2021-11-17,Priya,East,Chennai,Telangana,Watch,Fashion,3,14898,1432.41,0.24,First Class,Home Office
+20113,2024-07-02,Deepak,East,Bangalore,Karnataka,Laptop,Electronics,1,2363,370.67,0.0,Second Class,Consumer
+20478,2021-02-21,Neha,East,Bangalore,Delhi,Charger,Electronics,4,20392,2989.96,0.17,First Class,Consumer
+20898,2024-08-03,Neha,West,Bangalore,Delhi,Shoes,Fashion,4,39796,9233.3,0.19,Second Class,Consumer
+20998,2020-10-08,Priya,North,Kolkata,Karnataka,Smartphone,Electronics,2,10322,2011.43,0.15,Same Day,Consumer
+20752,2021-08-23,Neha,South,Hyderabad,Delhi,Watch,Fashion,1,9787,1964.08,0.22,Second Class,Home Office
+20791,2021-09-29,Arjun,West,Mumbai,Telangana,Jeans,Fashion,4,30432,3597.87,0.05,First Class,Corporate
+20180,2020-02-09,Meera,South,Pune,Tamil Nadu,Table,Furniture,1,2583,487.43,0.12,First Class,Corporate
